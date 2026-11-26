@@ -9,5 +9,5 @@ prebuilt_etc {
     filename: "wpa_supplicant.conf",
     sub_dir: "wifi",
     vendor: true,
-    overrides: ["wpa_supplicant.conf"],
+    overrides: ["//hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib:wpa_supplicant.conf"],
 }
