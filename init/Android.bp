@@ -5,9 +5,9 @@
 //
 
 cc_library_static {
-    name: "libinit_a14",
+    name: "libinit_s5e3830",
     recovery_available: true,
     shared_libs: ["libbase"],
-    srcs: ["init_a14.cpp"],
+    srcs: ["init_s5e3830.cpp"],
     include_dirs: ["system/core/init"],
 }

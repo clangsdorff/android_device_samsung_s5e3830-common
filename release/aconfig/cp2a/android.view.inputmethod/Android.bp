@@ -4,7 +4,7 @@
 //
 
 aconfig_values {
-    name: "aconfig-values-a14-cp2a-android.view.inputmethod-all",
+    name: "aconfig-values-s5e3830-cp2a-android.view.inputmethod-all",
     package: "android.view.inputmethod",
     srcs: [
         "*_flag_values.textproto",

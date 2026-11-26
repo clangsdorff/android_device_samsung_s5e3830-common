@@ -57,7 +57,7 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    init.a14.rc \
+    init.s5e3830-common.rc \
     init.baseband.rc \
     init.gps.rc \
     init.vendor.rilcommon.rc
@@ -218,7 +218,7 @@ PRODUCT_COPY_FILES += \
 # Overlays
 PRODUCT_PACKAGES += \
     ApertureOverlay \
-    CarrierSettingsA14Overlay \
+    CarrierSettingsS5e3830Overlay \
     FrameworkResOverlay \
     LineageSDKOverlay \
     NavigationBarNoHintOverlay \

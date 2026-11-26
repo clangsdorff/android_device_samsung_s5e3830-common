@@ -88,7 +88,7 @@ TARGET_NO_BOOTLOADER := true
 TARGET_NO_RADIOIMAGE := true
 
 # Init
-$(call soong_config_set,libinit,vendor_init_lib,//$(COMMON_PATH):libinit_a14)
+$(call soong_config_set,libinit,vendor_init_lib,//$(COMMON_PATH):libinit_s5e3830)
 
 # RIL
 $(call soong_config_set,cbd,protocol,sipc)

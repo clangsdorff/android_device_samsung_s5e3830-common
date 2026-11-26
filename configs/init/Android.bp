@@ -5,8 +5,8 @@
 //
 
 prebuilt_etc {
-    name: "init.a14.rc",
-    src: "init.a14.rc",
+    name: "init.s5e3830-common.rc",
+    src: "init.s5e3830-common.rc",
     sub_dir: "init",
     vendor: true,
 }

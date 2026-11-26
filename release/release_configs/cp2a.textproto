@@ -1,2 +1,2 @@
 name: "cp2a"
-aconfig_value_sets: "//device/samsung/s5e3830-common:aconfig_value_set-a14-cp2a"
+aconfig_value_sets: "//device/samsung/s5e3830-common:aconfig_value_set-s5e3830-cp2a"

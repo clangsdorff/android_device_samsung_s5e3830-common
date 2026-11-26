@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "CarrierSettingsA14Overlay",
+    name: "CarrierSettingsS5e3830Overlay",
     product_specific: true,
 }
