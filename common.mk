@@ -199,7 +199,6 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi-service \
     hostapd \
     wpa_supplicant \
-    wpa_supplicant.conf.stock \
     wpa_supplicant.rc
 
 PRODUCT_VENDOR_PROPERTIES += \
