@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Identitet uređaja i keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Automatski preuzmi i primeni Pixel Canary profil uređaja za DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Aktivan profil uređaja</string>
+    <string name="play_integrity_pif_refresh_hint">Dodirnite za preuzimanje najnovijeg Pixel Canary profila</string>
+    <string name="play_integrity_pif_disabled">Onemogućeno</string>
+    <string name="play_integrity_pif_updating">Preuzimanje Pixel Canary profila...</string>
+    <string name="play_integrity_pif_updated">Profil uređaja je ažuriran</string>
+    <string name="play_integrity_pif_update_failed">Preuzimanje Pixel Canary profila nije uspelo</string>
+    <string name="play_integrity_keybox_category">Keybox za atestaciju</string>
+    <string name="play_integrity_keybox_install_title">Učitaj keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Nije instaliran (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Instaliran (%1$s) - Važeći (CRL čist, istek: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Instaliran (%1$s) - Opozvan (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Instaliran (%1$s) - Istekao (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Instaliran (%1$s) - Još uvek nevažeći</string>
+    <string name="play_integrity_keybox_status_aosp_test">Instaliran (%1$s) - AOSP test ključ (ne prolazi STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Instaliran (%1$s) - Provera CRL-a nije uspela (istek: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox instaliran</string>
+    <string name="play_integrity_keybox_invalid">Neispravan keybox.xml fajl</string>
+    <string name="play_integrity_keybox_too_large">Fajl je prevelik (maks. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Ukloni keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Vrati na podrazumevanu hardversku atestaciju</string>
+    <string name="play_integrity_keybox_removed">Keybox uklonjen</string>
+    <string name="play_integrity_footer_summary">Ako ne znate čemu ova podešavanja služe, nemojte ih menjati. Play Integrity Fix se ažurira automatski; prilagođeni keybox je samo za napredne korisnike. Skrivene zabrane na serveru se možda neće videti u javnom CRL-u.</string>
+</resources>

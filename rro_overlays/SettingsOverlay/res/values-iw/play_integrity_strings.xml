@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">זהות המכשיר ו-keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">משיכה והחלה אוטומטית של פרופיל המכשיר Pixel Canary עבור DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">פרופיל מכשיר פעיל</string>
+    <string name="play_integrity_pif_refresh_hint">הקש להורדת פרופיל Pixel Canary העדכני</string>
+    <string name="play_integrity_pif_disabled">מושבת</string>
+    <string name="play_integrity_pif_updating">מוריד את פרופיל Pixel Canary העדכני...</string>
+    <string name="play_integrity_pif_updated">פרופיל המכשיר עודכן</string>
+    <string name="play_integrity_pif_update_failed">הורדת פרופיל Pixel Canary נכשלה</string>
+    <string name="play_integrity_keybox_category">Keybox לאימות</string>
+    <string name="play_integrity_keybox_install_title">טען keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">לא מותקן (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">מותקן (%1$s) - תקף (CRL תקין, תפוגה: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">מותקן (%1$s) - בוטל (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">מותקן (%1$s) - פג תוקף (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">מותקן (%1$s) - עדיין לא תקף</string>
+    <string name="play_integrity_keybox_status_aosp_test">מותקן (%1$s) - מפתח בדיקה AOSP (לא עובר STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">מותקן (%1$s) - בדיקת CRL נכשלה (תפוגה: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox הותקן</string>
+    <string name="play_integrity_keybox_invalid">קובץ keybox.xml לא תקין</string>
+    <string name="play_integrity_keybox_too_large">הקובץ גדול מדי (מקסימום 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">הסר keybox</string>
+    <string name="play_integrity_keybox_remove_summary">חזור לאימות חומרה מקורי</string>
+    <string name="play_integrity_keybox_removed">Keybox הוסר</string>
+    <string name="play_integrity_footer_summary">אם אינך יודע מה הגדרות אלו עושות, אל תיגע בהן. Play Integrity Fix מתעדכן אוטומטית; keybox מותאם אישית מיועד למשתמשים מתקדמים בלבד. חסימות שקטות מצד השרת עשויות שלא להופיע ב-CRL הציבורי.</string>
+</resources>

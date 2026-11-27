@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Identita zariadenia a keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Automaticky sťahovať a používať profil Pixel Canary pre DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Aktívny profil zariadenia</string>
+    <string name="play_integrity_pif_refresh_hint">Klepnutím stiahnete najnovší profil Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Vypnuté</string>
+    <string name="play_integrity_pif_updating">Sťahuje sa najnovší profil Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Profil zariadenia aktualizovaný</string>
+    <string name="play_integrity_pif_update_failed">Nepodarilo sa stiahnuť profil Pixel Canary</string>
+    <string name="play_integrity_keybox_category">Keybox atestácie</string>
+    <string name="play_integrity_keybox_install_title">Načítať keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Nenainštalované (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Nainštalované (%1$s) - Platný (CRL čistý, do: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Nainštalované (%1$s) - Odvolaný (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Nainštalované (%1$s) - Vypršaný (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Nainštalované (%1$s) - Zatiaľ neplatný</string>
+    <string name="play_integrity_keybox_status_aosp_test">Nainštalované (%1$s) - Testovací kľúč AOSP (neprejde STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Nainštalované (%1$s) - Kontrola CRL zlyhala (do: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox nainštalovaný</string>
+    <string name="play_integrity_keybox_invalid">Neplatný súbor keybox.xml</string>
+    <string name="play_integrity_keybox_too_large">Súbor je príliš veľký (max 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Odstrániť keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Obnoviť predvolenú hardvérovú atestáciu</string>
+    <string name="play_integrity_keybox_removed">Keybox odstránený</string>
+    <string name="play_integrity_footer_summary">Ak neviete, na čo tieto nastavenia slúžia, nemeňte ich. Play Integrity Fix sa aktualizuje automaticky; vlastné keyboxy sú len pre pokročilých používateľov. Tieňové blokovania na strane servera sa nemusia zobraziť vo verejnom CRL.</string>
+</resources>

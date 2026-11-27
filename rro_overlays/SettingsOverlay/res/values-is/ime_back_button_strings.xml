@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Sýna hnapp til að fela lyklaborðið"</string>
+    <string name="ime_back_button_in_navbar_summary">"Sýna hnappinn til að fela lyklaborðið á yfirlitsstikunni þegar innsláttarreitur er valinn"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Профіль прылады і keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Аўтаматычна спампоўваць і прымяняць профіль Pixel Canary для DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Актыўны профіль прылады</string>
+    <string name="play_integrity_pif_refresh_hint">Націсніце, каб спампаваць апошні профіль Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Адключана</string>
+    <string name="play_integrity_pif_updating">Спампоўка профілю Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Профіль прылады абноўлены</string>
+    <string name="play_integrity_pif_update_failed">Не ўдалося спампаваць профіль Pixel Canary</string>
+    <string name="play_integrity_keybox_category">Keybox атэстацыі</string>
+    <string name="play_integrity_keybox_install_title">Загрузіць keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Не ўсталяваны (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Усталяваны (%1$s) - Сапраўдны (CRL чысты, да: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Усталяваны (%1$s) - Адкліканы (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Усталяваны (%1$s) - Тэрмін скончыўся (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Усталяваны (%1$s) - Яшчэ не сапраўдны</string>
+    <string name="play_integrity_keybox_status_aosp_test">Усталяваны (%1$s) - Тэставы ключ AOSP (без STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Усталяваны (%1$s) - Не ўдалося праверыць CRL (да: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox усталяваны</string>
+    <string name="play_integrity_keybox_invalid">Няправільны файл keybox.xml</string>
+    <string name="play_integrity_keybox_too_large">Файл занадта вялікі (макс. 256 КБ)</string>
+    <string name="play_integrity_keybox_remove_title">Выдаліць keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Вярнуцца да стандартнай апаратнай атэстацыі</string>
+    <string name="play_integrity_keybox_removed">Keybox выдалены</string>
+    <string name="play_integrity_footer_summary">Калі вы не ведаеце, навошта гэтыя налады, не чапайце іх. Play Integrity Fix абнаўляецца аўтаматычна; уласныя keybox патрэбны толькі вопытным карыстальнікам. Серверныя ценявыя баны могуць не адлюстроўвацца ў адкрытым CRL.</string>
+</resources>

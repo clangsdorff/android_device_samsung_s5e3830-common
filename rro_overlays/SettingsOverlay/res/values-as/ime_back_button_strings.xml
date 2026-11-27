@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"কীব’ৰ্ড লুকুওৱা কী দেখুৱাওক"</string>
+    <string name="ime_back_button_in_navbar_summary">"কোনো ইনপুট ক্ষেত্ৰ বাছনি কৰা হ’লে কীব’ৰ্ড লুকুওৱা বুটামটো নেভিগেশ্বন বাৰত দেখুৱাওক"</string>
+</resources>

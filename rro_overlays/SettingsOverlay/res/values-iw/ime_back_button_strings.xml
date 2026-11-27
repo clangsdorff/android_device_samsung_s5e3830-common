@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"הצגה של מקש הסתרת המקלדת"</string>
+    <string name="ime_back_button_in_navbar_summary">"הצגה של כפתור הסתרת המקלדת בפס הניווט כשנבחר שדה להזנת קלט"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Cihaz kimliği ve keybox ayarları</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard için Pixel Canary cihaz profilini otomatik indir ve uygula</string>
+    <string name="play_integrity_pif_profile_title">Aktif cihaz profili</string>
+    <string name="play_integrity_pif_refresh_hint">Güncel Pixel Canary profili için dokunun</string>
+    <string name="play_integrity_pif_disabled">Devre dışı</string>
+    <string name="play_integrity_pif_updating">Güncel Pixel Canary indiriliyor...</string>
+    <string name="play_integrity_pif_updated">Cihaz profili güncellendi</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary indirilemedi</string>
+    <string name="play_integrity_keybox_category">Attestation keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml yükle</string>
+    <string name="play_integrity_keybox_status_none">Yüklü değil (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Yüklü (%1$s) - Geçerli (CRL temiz, son: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Yüklü (%1$s) - İptal edilmiş (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Yüklü (%1$s) - Süresi dolmuş (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Yüklü (%1$s) - Henüz geçerli değil</string>
+    <string name="play_integrity_keybox_status_aosp_test">Yüklü (%1$s) - AOSP test anahtarı (STRONG geçmez)</string>
+    <string name="play_integrity_keybox_status_offline">Yüklü (%1$s) - CRL kontrol edilemedi (son: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox yüklendi</string>
+    <string name="play_integrity_keybox_invalid">Geçersiz keybox.xml dosyası</string>
+    <string name="play_integrity_keybox_too_large">Dosya çok büyük (en fazla 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Keybox kaldır</string>
+    <string name="play_integrity_keybox_remove_summary">Stok donanım attestation davranışına dön</string>
+    <string name="play_integrity_keybox_removed">Keybox kaldırıldı</string>
+    <string name="play_integrity_footer_summary">Bu ayarların ne işe yaradığını bilmiyorsanız dokunmayın. Play Integrity Fix otomatik güncellenir; özel keybox yalnızca ileri düzey kullanıcılar içindir. Sunucu tarafı shadow-banlar açık CRL listesinde görünmeyebilir.</string>
+</resources>

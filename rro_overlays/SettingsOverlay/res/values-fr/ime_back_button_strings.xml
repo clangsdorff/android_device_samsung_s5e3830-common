@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Afficher le bouton de masquage du clavier"</string>
+    <string name="ime_back_button_in_navbar_summary">"Afficher le bouton de masquage du clavier dans la barre de navigation lorsqu\'un champ de saisie est sélectionné"</string>
+</resources>

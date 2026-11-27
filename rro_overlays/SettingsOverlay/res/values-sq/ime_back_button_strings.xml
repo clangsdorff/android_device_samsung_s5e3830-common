@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Shfaq butonin për fshehjen e tastierës"</string>
+    <string name="ime_back_button_in_navbar_summary">"Shfaq butonin për fshehjen e tastierës në shiritin e navigimit kur zgjidhet një fushë hyrjeje"</string>
+</resources>

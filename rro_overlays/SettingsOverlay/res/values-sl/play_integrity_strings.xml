@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Identiteta naprave in keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Samodejno pridobi in uporabi profil naprave Pixel Canary za DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Aktivni profil naprave</string>
+    <string name="play_integrity_pif_refresh_hint">Tapnite za pridobitev najnovejšega profila Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Onemogočeno</string>
+    <string name="play_integrity_pif_updating">Pridobivanje najnovejšega profila Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Profil naprave posodobljen</string>
+    <string name="play_integrity_pif_update_failed">Pridobivanje profila Pixel Canary ni uspelo</string>
+    <string name="play_integrity_keybox_category">Keybox za atestacijo</string>
+    <string name="play_integrity_keybox_install_title">Naloži keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Ni nameščen (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Nameščen (%1$s) - Veljaven (CRL čist, poteče: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Nameščen (%1$s) - Preklican (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Nameščen (%1$s) - Potekel (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Nameščen (%1$s) - Še ni veljaven</string>
+    <string name="play_integrity_keybox_status_aosp_test">Nameščen (%1$s) - Testni ključ AOSP (ne prestane STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Nameščen (%1$s) - Preverjanje CRL ni uspelo (poteče: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox nameščen</string>
+    <string name="play_integrity_keybox_invalid">Neveljavna datoteka keybox.xml</string>
+    <string name="play_integrity_keybox_too_large">Datoteka je prevelika (največ 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Odstrani keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Povrni privzeto strojno atestacijo</string>
+    <string name="play_integrity_keybox_removed">Keybox odstranjen</string>
+    <string name="play_integrity_footer_summary">Če ne veste, čemu so te nastavitve namenjene, jih ne spreminjajte. Play Integrity Fix se posodablja samodejno; keybox po meri je namenjen le naprednim uporabnikom. Senca blokade na strežniku morda ni vidna v javnem CRL.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"კლავიატურის დამალვის კლავიშის ჩვენება"</string>
+    <string name="ime_back_button_in_navbar_summary">"კლავიატურის დამალვის ღილაკის ჩვენება ნავიგაციის ზოლში, როდესაც არჩეულია შეყვანის ველი"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Profilio ir keybox valdymas</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Automatiškai gauti ir pritaikyti Pixel Canary atspaudą DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Aktyvus atspaudas</string>
+    <string name="play_integrity_pif_refresh_hint">Palieskite, kad gautumėte naujausią Pixel Canary profilį</string>
+    <string name="play_integrity_pif_disabled">Išjungta</string>
+    <string name="play_integrity_pif_updating">Gaunamas naujausias Pixel Canary profilis...</string>
+    <string name="play_integrity_pif_updated">Atspaudas atnaujintas</string>
+    <string name="play_integrity_pif_update_failed">Nepavyko gauti Pixel Canary profilio</string>
+    <string name="play_integrity_keybox_category">Atestavimo keybox</string>
+    <string name="play_integrity_keybox_install_title">Įkelti keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Neįdiegta (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Įdiegta (%1$s) - Galioja (CRL švarus, galioja iki: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Įdiegta (%1$s) - Atšaukta (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Įdiegta (%1$s) - Pasibaigęs galiojimas (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Įdiegta (%1$s) - Dar negalioja</string>
+    <string name="play_integrity_keybox_status_aosp_test">Įdiegta (%1$s) - AOSP bandomasis raktas (nepraeina STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Įdiegta (%1$s) - Nepavyko patikrinti CRL (iki: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox įdiegta</string>
+    <string name="play_integrity_keybox_invalid">Netinkamas keybox.xml failas</string>
+    <string name="play_integrity_keybox_too_large">Failas per didelis (maks. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Pašalinti keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Grįžti prie numatytojo aparatinio atestavimo</string>
+    <string name="play_integrity_keybox_removed">Keybox pašalinta</string>
+    <string name="play_integrity_footer_summary">Jei nežinote, kam skirti šie nustatymai, jų nelieskite. Play Integrity Fix atnaujinamas automatiškai; pasirinktiniai keybox skirti tik pažengusiems vartotojams. Serverio šešėliniai blokavimai gali būti nematomi viešajame CRL.</string>
+</resources>

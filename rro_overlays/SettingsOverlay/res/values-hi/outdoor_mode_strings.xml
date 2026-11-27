@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="outdoor_mode_title">बाह्य मोड</string>
+    <string name="outdoor_mode_summary">बाहर देखने के लिए स्क्रीन को चमकदार बनाएँ।</string>
+</resources>

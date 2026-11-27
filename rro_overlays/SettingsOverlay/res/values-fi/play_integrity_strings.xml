@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Laitteen identiteetti ja keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Nouda ja käytä Pixel Canary -laiteprofiilia automaattisesti DroidGuardille</string>
+    <string name="play_integrity_pif_profile_title">Aktiivinen laiteprofiili</string>
+    <string name="play_integrity_pif_refresh_hint">Napauta noutaaksesi uusimman Pixel Canary -profiilin</string>
+    <string name="play_integrity_pif_disabled">Pois käytöstä</string>
+    <string name="play_integrity_pif_updating">Noudetaan uusinta Pixel Canary -profiilia...</string>
+    <string name="play_integrity_pif_updated">Laiteprofiili päivitetty</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary -profiilin nouto epäonnistui</string>
+    <string name="play_integrity_keybox_category">Todennus-keybox</string>
+    <string name="play_integrity_keybox_install_title">Lataa keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Ei asennettu (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Asennettu (%1$s) - Kelvollinen (CRL puhdas, vanhenee: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Asennettu (%1$s) - Kumottu (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Asennettu (%1$s) - Vanhentunut (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Asennettu (%1$s) - Ei vielä kelvollinen</string>
+    <string name="play_integrity_keybox_status_aosp_test">Asennettu (%1$s) - AOSP-testiavain (ei läpäise STRONG-tasoa)</string>
+    <string name="play_integrity_keybox_status_offline">Asennettu (%1$s) - CRL-tarkistus epäonnistui (vanhenee: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox asennettu</string>
+    <string name="play_integrity_keybox_invalid">Virheellinen keybox.xml-tiedosto</string>
+    <string name="play_integrity_keybox_too_large">Tiedosto on liian suuri (enint. 256 Kt)</string>
+    <string name="play_integrity_keybox_remove_title">Poista keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Palaa oletuslaitteistotodennukseen</string>
+    <string name="play_integrity_keybox_removed">Keybox poistettu</string>
+    <string name="play_integrity_footer_summary">Jos et tiedä, mitä nämä asetukset tekevät, älä muuta niitä. Play Integrity Fix päivittyy automaattisesti; mukautetut keyboxit on tarkoitettu vain edistyneille käyttäjille. Palvelinpuolen varjoestot eivät välttämättä näy julkisessa CRL-luettelossa.</string>
+</resources>

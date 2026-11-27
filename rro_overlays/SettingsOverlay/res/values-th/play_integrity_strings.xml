@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">ข้อมูลอุปกรณ์และ keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">ดึงและใช้โปรไฟล์อุปกรณ์ Pixel Canary โดยอัตโนมัติสำหรับ DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">โปรไฟล์อุปกรณ์ที่ใช้งาน</string>
+    <string name="play_integrity_pif_refresh_hint">แตะเพื่อดึงโปรไฟล์ Pixel Canary ล่าสุด</string>
+    <string name="play_integrity_pif_disabled">ปิดใช้งาน</string>
+    <string name="play_integrity_pif_updating">กำลังดึงโปรไฟล์ Pixel Canary ล่าสุด...</string>
+    <string name="play_integrity_pif_updated">อัปเดตโปรไฟล์อุปกรณ์แล้ว</string>
+    <string name="play_integrity_pif_update_failed">ดึงโปรไฟล์ Pixel Canary ไม่สำเร็จ</string>
+    <string name="play_integrity_keybox_category">Keybox การรับรอง</string>
+    <string name="play_integrity_keybox_install_title">โหลด keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">ไม่ได้ติดตั้ง (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">ติดตั้งแล้ว (%1$s) - ใช้งานได้ (CRL ปกติ, หมดอายุ: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">ติดตั้งแล้ว (%1$s) - ถูกเพิกถอน (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">ติดตั้งแล้ว (%1$s) - หมดอายุ (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">ติดตั้งแล้ว (%1$s) - ยังไม่เริ่มใช้งาน</string>
+    <string name="play_integrity_keybox_status_aosp_test">ติดตั้งแล้ว (%1$s) - คีย์ทดสอบ AOSP (ไม่ผ่าน STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">ติดตั้งแล้ว (%1$s) - ตรวจสอบ CRL ไม่สำเร็จ (หมดอายุ: %2$s)</string>
+    <string name="play_integrity_keybox_installed">ติดตั้ง keybox แล้ว</string>
+    <string name="play_integrity_keybox_invalid">ไฟล์ keybox.xml ไม่ถูกต้อง</string>
+    <string name="play_integrity_keybox_too_large">ไฟล์ใหญ่เกินไป (สูงสุด 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">ลบ keybox</string>
+    <string name="play_integrity_keybox_remove_summary">กลับไปใช้การรับรองฮาร์ดแวร์เดิม</string>
+    <string name="play_integrity_keybox_removed">ลบ keybox แล้ว</string>
+    <string name="play_integrity_footer_summary">หากคุณไม่ทราบว่าการตั้งค่าเหล่านี้ใช้ทำอะไร โปรดอย่าแก้ไข Play Integrity Fix จะอัปเดตอัตโนมัติ keybox แบบกำหนดเองเหมาะสำหรับผู้ใช้ขั้นสูงเท่านั้น การบล็อกจากฝั่งเซิร์ฟเวอร์อาจไม่แสดงใน CRL สาธารณะ</string>
+</resources>

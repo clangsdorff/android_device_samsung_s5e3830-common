@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Показувати кнопку приховування клавіатури"</string>
+    <string name="ime_back_button_in_navbar_summary">"Показувати кнопку приховування клавіатури на панелі навігації, коли вибрано поле введення"</string>
+</resources>

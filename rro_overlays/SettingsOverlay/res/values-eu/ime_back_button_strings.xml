@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Erakutsi teklatua ezkutatzeko tekla"</string>
+    <string name="ime_back_button_in_navbar_summary">"Erakutsi teklatua ezkutatzeko botoia nabigazio-barran idazketa-eremu bat hautatuta dagoenean"</string>
+</resources>

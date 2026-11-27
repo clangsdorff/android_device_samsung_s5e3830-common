@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"কীবোর্ড লুকানোর কী দেখান"</string>
+    <string name="ime_back_button_in_navbar_summary">"ইনপুট ফিল্ড বেছে নেওয়া হলে, নেভিগেশন বারে কীবোর্ড লুকানোর বোতাম দেখান"</string>
+</resources>

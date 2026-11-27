@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Профиль және keybox басқару</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard үшін Pixel Canary ізін автоматты жүктеп қолдану</string>
+    <string name="play_integrity_pif_profile_title">Белсенді із</string>
+    <string name="play_integrity_pif_refresh_hint">Соңғы Pixel Canary профилін жүктеу үшін түртіңіз</string>
+    <string name="play_integrity_pif_disabled">Өшірулі</string>
+    <string name="play_integrity_pif_updating">Соңғы Pixel Canary профилі жүктелуде...</string>
+    <string name="play_integrity_pif_updated">Із жаңартылды</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary профилін жүктеу сәтсіз аяқталды</string>
+    <string name="play_integrity_keybox_category">Аттестация keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml жүктеу</string>
+    <string name="play_integrity_keybox_status_none">Орнатылмаған (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Орнатылған (%1$s) - Жарамды (CRL таза, мерзімі: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Орнатылған (%1$s) - Кері қайтарылған (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Орнатылған (%1$s) - Мерзімі өткен (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Орнатылған (%1$s) - Әлі жарамсыз</string>
+    <string name="play_integrity_keybox_status_aosp_test">Орнатылған (%1$s) - AOSP сынақ кілті (STRONG өтпейді)</string>
+    <string name="play_integrity_keybox_status_offline">Орнатылған (%1$s) - CRL тексеруі сәтсіз (мерзімі: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox орнатылды</string>
+    <string name="play_integrity_keybox_invalid">Жарамсыз keybox.xml файлы</string>
+    <string name="play_integrity_keybox_too_large">Файл тым үлкен (макс. 256 КБ)</string>
+    <string name="play_integrity_keybox_remove_title">Keybox жою</string>
+    <string name="play_integrity_keybox_remove_summary">Штаттық аппараттық аттестацияға қайту</string>
+    <string name="play_integrity_keybox_removed">Keybox жойылды</string>
+    <string name="play_integrity_footer_summary">Бұл параметрлердің не істейтінін білмесеңіз, тиіспеңіз. Play Integrity Fix автоматты жаңартылады; арнайы keybox тек тәжірибелі пайдаланушыларға арналған. Сервер тарапындағы жасырын бұғаттаулар ашық CRL тізімінде көрінбеуі мүмкін.</string>
+</resources>

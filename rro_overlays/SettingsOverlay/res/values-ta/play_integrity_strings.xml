@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">சாதன அடையாளம் மற்றும் keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard-க்கு Pixel Canary சாதன சுயவிவரத்தை தானாகப் பெற்றுப் பயன்படுத்து</string>
+    <string name="play_integrity_pif_profile_title">செயலில் உள்ள சாதன சுயவிவரம்</string>
+    <string name="play_integrity_pif_refresh_hint">புதிய Pixel Canary சுயவிவரத்தைப் பெற தட்டவும்</string>
+    <string name="play_integrity_pif_disabled">முடக்கப்பட்டது</string>
+    <string name="play_integrity_pif_updating">புதிய Pixel Canary சுயவிவரம் பெறப்படுகிறது...</string>
+    <string name="play_integrity_pif_updated">சாதன சுயவிவரம் புதுப்பிக்கப்பட்டது</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary சுயவிவரத்தைப் பெற முடியவில்லை</string>
+    <string name="play_integrity_keybox_category">சான்றிதழ் keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml ஏற்று</string>
+    <string name="play_integrity_keybox_status_none">நிறுவப்படவில்லை (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">நிறுவப்பட்டது (%1$s) - செல்லுபடியாகும் (CRL தூய்மை, முடிவு: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">நிறுவப்பட்டது (%1$s) - ரத்து செய்யப்பட்டது (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">நிறுவப்பட்டது (%1$s) - காலாவதியானது (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">நிறுவப்பட்டது (%1$s) - இன்னும் செல்லுபடியாகாது</string>
+    <string name="play_integrity_keybox_status_aosp_test">நிறுவப்பட்டது (%1$s) - AOSP சோதனை விசை (STRONG தேர்ச்சி பெறாது)</string>
+    <string name="play_integrity_keybox_status_offline">நிறுவப்பட்டது (%1$s) - CRL சரிபார்ப்பு தோல்வி (முடிவு: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox நிறுவப்பட்டது</string>
+    <string name="play_integrity_keybox_invalid">தவறான keybox.xml கோப்பு</string>
+    <string name="play_integrity_keybox_too_large">கோப்பு மிகவும் பெரியது (அதிகபட்சம் 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">keybox-ஐ அகற்று</string>
+    <string name="play_integrity_keybox_remove_summary">இயல்பு வன்பொருள் சான்றிதழுக்கு திரும்பு</string>
+    <string name="play_integrity_keybox_removed">Keybox அகற்றப்பட்டது</string>
+    <string name="play_integrity_footer_summary">இந்த அமைப்புகள் என்ன செய்கின்றன என்று தெரியாவிட்டால் மாற்றாதீர்கள். Play Integrity Fix தானாகப் புதுப்பிக்கப்படும்; தனிப்பயன் keybox மேம்பட்ட பயனர்களுக்கு மட்டுமே. சேவையக பக்க மறைமுகத் தடைகள் பொது CRL-இல் தெரியாமல் இருக்கலாம்.</string>
+</resources>

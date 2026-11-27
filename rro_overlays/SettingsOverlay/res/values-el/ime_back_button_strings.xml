@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Εμφάνιση του πλήκτρου απόκρυψης πληκτρολογίου"</string>
+    <string name="ime_back_button_in_navbar_summary">"Εμφάνιση του κουμπιού απόκρυψης πληκτρολογίου στη γραμμή πλοήγησης, όταν έχει επιλεγεί ένα πεδίο εισαγωγής"</string>
+</resources>

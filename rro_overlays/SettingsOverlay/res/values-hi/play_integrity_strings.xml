@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">प्रोफ़ाइल और keybox प्रबंधन</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard के लिए Pixel Canary फ़िंगरप्रिंट अपने-आप लाएँ और लागू करें</string>
+    <string name="play_integrity_pif_profile_title">सक्रिय फ़िंगरप्रिंट</string>
+    <string name="play_integrity_pif_refresh_hint">नवीनतम Pixel Canary प्रोफ़ाइल लाने के लिए टैप करें</string>
+    <string name="play_integrity_pif_disabled">अक्षम</string>
+    <string name="play_integrity_pif_updating">नवीनतम Pixel Canary प्रोफ़ाइल लाया जा रहा है...</string>
+    <string name="play_integrity_pif_updated">फ़िंगरप्रिंट अपडेट किया गया</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary प्रोफ़ाइल लाने में विफल</string>
+    <string name="play_integrity_keybox_category">अटेस्टेशन keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml लोड करें</string>
+    <string name="play_integrity_keybox_status_none">इंस्टॉल नहीं है (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">इंस्टॉल है (%1$s) - मान्य (CRL साफ, समाप्ति: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">इंस्टॉल है (%1$s) - निरस्त (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">इंस्टॉल है (%1$s) - समाप्त (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">इंस्टॉल है (%1$s) - अभी मान्य नहीं है</string>
+    <string name="play_integrity_keybox_status_aosp_test">इंस्टॉल है (%1$s) - AOSP टेस्ट कुंजी (STRONG पास नहीं होगा)</string>
+    <string name="play_integrity_keybox_status_offline">इंस्टॉल है (%1$s) - CRL जांच विफल (समाप्ति: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox इंस्टॉल हो गया</string>
+    <string name="play_integrity_keybox_invalid">अमान्य keybox.xml फ़ाइल</string>
+    <string name="play_integrity_keybox_too_large">फ़ाइल बहुत बड़ी है (अधिकतम 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Keybox हटाएँ</string>
+    <string name="play_integrity_keybox_remove_summary">स्टॉक हार्डवेयर अटेस्टेशन पर वापस जाएँ</string>
+    <string name="play_integrity_keybox_removed">Keybox हटाया गया</string>
+    <string name="play_integrity_footer_summary">यदि आप नहीं जानते कि ये सेटिंग्स क्या करती हैं, तो इन्हें न बदलें। Play Integrity Fix अपने-आप अपडेट होता है; कस्टम keybox केवल उन्नत उपयोगकर्ताओं के लिए हैं। सर्वर-साइड शैडो-बैन सार्वजनिक CRL में नहीं दिख सकते हैं।</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Nhận dạng thiết bị và keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Tự động tải và áp dụng hồ sơ thiết bị Pixel Canary cho DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Hồ sơ thiết bị đang dùng</string>
+    <string name="play_integrity_pif_refresh_hint">Chạm để tải hồ sơ Pixel Canary mới nhất</string>
+    <string name="play_integrity_pif_disabled">Đã tắt</string>
+    <string name="play_integrity_pif_updating">Đang tải hồ sơ Pixel Canary mới nhất...</string>
+    <string name="play_integrity_pif_updated">Đã cập nhật hồ sơ thiết bị</string>
+    <string name="play_integrity_pif_update_failed">Không thể tải hồ sơ Pixel Canary</string>
+    <string name="play_integrity_keybox_category">Keybox chứng thực</string>
+    <string name="play_integrity_keybox_install_title">Tải keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Chưa cài đặt (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Đã cài (%1$s) - Hợp lệ (CRL sạch, hết hạn: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Đã cài (%1$s) - Đã thu hồi (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Đã cài (%1$s) - Đã hết hạn (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Đã cài (%1$s) - Chưa có hiệu lực</string>
+    <string name="play_integrity_keybox_status_aosp_test">Đã cài (%1$s) - Khóa thử AOSP (không qua STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Đã cài (%1$s) - Kiểm tra CRL thất bại (hết hạn: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Đã cài keybox</string>
+    <string name="play_integrity_keybox_invalid">Tệp keybox.xml không hợp lệ</string>
+    <string name="play_integrity_keybox_too_large">Tệp quá lớn (tối đa 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Xóa keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Quay lại chứng thực phần cứng gốc</string>
+    <string name="play_integrity_keybox_removed">Đã xóa keybox</string>
+    <string name="play_integrity_footer_summary">Nếu bạn không biết các cài đặt này dùng để làm gì, đừng thay đổi chúng. Play Integrity Fix tự động cập nhật; keybox tùy chỉnh chỉ dành cho người dùng nâng cao. Lệnh chặn ngầm từ máy chủ có thể không xuất hiện trong CRL công khai.</string>
+</resources>

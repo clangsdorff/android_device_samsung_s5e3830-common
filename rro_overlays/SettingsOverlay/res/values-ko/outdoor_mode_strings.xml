@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="outdoor_mode_title">야외 모드</string>
+    <string name="outdoor_mode_summary">야외에서도 잘 볼 수 있도록 화면을 더 밝게 유지합니다.</string>
+</resources>

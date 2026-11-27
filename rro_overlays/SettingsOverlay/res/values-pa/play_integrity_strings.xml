@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">ਪ੍ਰੋਫਾਈਲ ਅਤੇ keybox ਪ੍ਰਬੰਧਨ</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard ਲਈ Pixel Canary ਫਿੰਗਰਪ੍ਰਿੰਟ ਆਪਣੇ-ਆਪ ਪ੍ਰਾਪਤ ਕਰੋ ਅਤੇ ਲਾਗੂ ਕਰੋ</string>
+    <string name="play_integrity_pif_profile_title">ਸਰਗਰਮ ਫਿੰਗਰਪ੍ਰਿੰਟ</string>
+    <string name="play_integrity_pif_refresh_hint">ਨਵੀਨਤਮ Pixel Canary ਪ੍ਰੋਫਾਈਲ ਲੈਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="play_integrity_pif_disabled">ਅਯੋਗ</string>
+    <string name="play_integrity_pif_updating">ਨਵੀਨਤਮ Pixel Canary ਪ੍ਰੋਫਾਈਲ ਪ੍ਰਾਪਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...</string>
+    <string name="play_integrity_pif_updated">ਫਿੰਗਰਪ੍ਰਿੰਟ ਅੱਪਡੇਟ ਹੋਇਆ</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary ਪ੍ਰੋਫਾਈਲ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="play_integrity_keybox_category">ਤਸਦੀਕ keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml ਲੋਡ ਕਰੋ</string>
+    <string name="play_integrity_keybox_status_none">ਇੰਸਟਾਲ ਨਹੀਂ (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">ਇੰਸਟਾਲ (%1$s) - ਵੈਧ (CRL ਸਾਫ਼, ਮਿਆਦ: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">ਇੰਸਟਾਲ (%1$s) - ਰੱਦ (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">ਇੰਸਟਾਲ (%1$s) - ਮਿਆਦ ਪੁੱਗੀ (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">ਇੰਸਟਾਲ (%1$s) - ਅਜੇ ਵੈਧ ਨਹੀਂ</string>
+    <string name="play_integrity_keybox_status_aosp_test">ਇੰਸਟਾਲ (%1$s) - AOSP ਟੈਸਟ ਕੁੰਜੀ (STRONG ਪਾਸ ਨਹੀਂ ਹੋਵੇਗਾ)</string>
+    <string name="play_integrity_keybox_status_offline">ਇੰਸਟਾਲ (%1$s) - CRL ਜਾਂਚ ਅਸਫਲ (ਮਿਆਦ: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox ਇੰਸਟਾਲ ਹੋਇਆ</string>
+    <string name="play_integrity_keybox_invalid">ਅਵੈਧ keybox.xml ਫਾਈਲ</string>
+    <string name="play_integrity_keybox_too_large">ਫਾਈਲ ਬਹੁਤ ਵੱਡੀ ਹੈ (ਵੱਧ ਤੋਂ ਵੱਧ 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">keybox ਹਟਾਓ</string>
+    <string name="play_integrity_keybox_remove_summary">ਮੂਲ ਹਾਰਡਵੇਅਰ ਤਸਦੀਕ \'ਤੇ ਵਾਪਸ ਜਾਓ</string>
+    <string name="play_integrity_keybox_removed">Keybox ਹਟਾਇਆ ਗਿਆ</string>
+    <string name="play_integrity_footer_summary">ਜੇਕਰ ਤੁਹਾਨੂੰ ਨਹੀਂ ਪਤਾ ਕਿ ਇਹ ਸੈਟਿੰਗਾਂ ਕੀ ਕਰਦੀਆਂ ਹਨ, ਤਾਂ ਇਹਨਾਂ ਨੂੰ ਨਾ ਛੇੜੋ। Play Integrity Fix ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਹੁੰਦਾ ਹੈ; ਕਸਟਮ keybox ਸਿਰਫ਼ ਤਜਰਬੇਕਾਰ ਵਰਤੋਂਕਾਰਾਂ ਲਈ ਹੈ। ਸਰਵਰ ਵੱਲੋਂ ਗੁਪਤ ਪਾਬੰਦੀਆਂ ਜਨਤਕ CRL ਵਿੱਚ ਨਹੀਂ ਦਿੱਸ ਸਕਦੀਆਂ।</string>
+</resources>

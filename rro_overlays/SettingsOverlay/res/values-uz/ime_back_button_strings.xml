@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Klaviaturani yashirish tugmasini chiqarish"</string>
+    <string name="ime_back_button_in_navbar_summary">"Kiritish maydonchasi tanlanganda navigatsiya panelida klaviaturani yashirish tugmasini chiqarish"</string>
+</resources>

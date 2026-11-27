@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Прикажи тастер за скривање тастатуре"</string>
+    <string name="ime_back_button_in_navbar_summary">"Прикажи дугме за скривање тастатуре на траци за навигацију када је изабрано поље за унос"</string>
+</resources>

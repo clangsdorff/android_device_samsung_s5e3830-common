@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">მოწყობილობის იდენტობა და keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard-ისთვის Pixel Canary მოწყობილობის პროფილის ავტომატური ჩამოტვირთვა და გამოყენება</string>
+    <string name="play_integrity_pif_profile_title">აქტიური მოწყობილობის პროფილი</string>
+    <string name="play_integrity_pif_refresh_hint">შეეხეთ უახლესი Pixel Canary პროფილის ჩამოსატვირთად</string>
+    <string name="play_integrity_pif_disabled">გამორთულია</string>
+    <string name="play_integrity_pif_updating">უახლესი Pixel Canary პროფილი იტვირთება...</string>
+    <string name="play_integrity_pif_updated">მოწყობილობის პროფილი განახლდა</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary პროფილის ჩამოტვირთვა ვერ მოხერხდა</string>
+    <string name="play_integrity_keybox_category">ატესტაციის keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml-ის ჩატვირთვა</string>
+    <string name="play_integrity_keybox_status_none">დაყენებული არ არის (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">დაყენებულია (%1$s) - მოქმედია (CRL სუფთაა, ვადა: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">დაყენებულია (%1$s) - გაუქმებულია (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">დაყენებულია (%1$s) - ვადაგასულია (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">დაყენებულია (%1$s) - ჯერ არ მოქმედებს</string>
+    <string name="play_integrity_keybox_status_aosp_test">დაყენებულია (%1$s) - AOSP სატესტო გასაღები (STRONG არ გაივლის)</string>
+    <string name="play_integrity_keybox_status_offline">დაყენებულია (%1$s) - CRL შემოწმება ვერ მოხერხდა (ვადა: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox დაყენდა</string>
+    <string name="play_integrity_keybox_invalid">არასწორი keybox.xml ფაილი</string>
+    <string name="play_integrity_keybox_too_large">ფაილი ძალიან დიდია (მაქს. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">keybox-ის წაშლა</string>
+    <string name="play_integrity_keybox_remove_summary">სტანდარტულ აპარატურულ ატესტაციაზე დაბრუნება</string>
+    <string name="play_integrity_keybox_removed">Keybox წაიშალა</string>
+    <string name="play_integrity_footer_summary">თუ არ იცით, რას აკეთებს ეს პარამეტრები, ნუ შეცვლით მათ. Play Integrity Fix ავტომატურად ახლდება; მორგებული keybox მხოლოდ გამოცდილი მომხმარებლებისთვისაა. სერვერის მხარეს ფარული ბლოკირება შესაძლოა საჯარო CRL-ში არ ჩანდეს.</string>
+</resources>

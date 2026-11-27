@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="outdoor_mode_title">Buitenstand</string>
+    <string name="outdoor_mode_summary">Verhoog de helderheid van het scherm zodat het buiten beter zichtbaar is.</string>
+</resources>

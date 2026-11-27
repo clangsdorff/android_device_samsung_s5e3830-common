@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Afișează tasta de ascundere a tastaturii"</string>
+    <string name="ime_back_button_in_navbar_summary">"Afișează butonul de ascundere a tastaturii în bara de navigare când este selectat un câmp de introducere a textului"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Mostra la tecla per amagar el teclat"</string>
+    <string name="ime_back_button_in_navbar_summary">"Mostra el botó per amagar el teclat a la barra de navegació quan se seleccioni un camp d\'entrada"</string>
+</resources>

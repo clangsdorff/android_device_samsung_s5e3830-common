@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Device identity and keybox settings</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Auto-fetch and apply Pixel Canary device profile to DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Active device profile</string>
+    <string name="play_integrity_pif_refresh_hint">Tap to fetch latest Pixel Canary profile</string>
+    <string name="play_integrity_pif_disabled">Disabled</string>
+    <string name="play_integrity_pif_updating">Fetching latest Pixel Canary profile...</string>
+    <string name="play_integrity_pif_updated">Device profile updated</string>
+    <string name="play_integrity_pif_update_failed">Failed to fetch Pixel Canary profile</string>
+    <string name="play_integrity_keybox_category">Attestation keybox</string>
+    <string name="play_integrity_keybox_install_title">Load keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Not installed (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Installed (%1$s) - Valid (CRL clean, exp: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Installed (%1$s) - Revoked (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Installed (%1$s) - Expired (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Installed (%1$s) - Not yet valid</string>
+    <string name="play_integrity_keybox_status_aosp_test">Installed (%1$s) - AOSP test key (cannot pass STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Installed (%1$s) - CRL check failed (exp: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox installed</string>
+    <string name="play_integrity_keybox_invalid">Invalid keybox.xml file</string>
+    <string name="play_integrity_keybox_too_large">File too large (max 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Remove keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Revert to stock hardware attestation</string>
+    <string name="play_integrity_keybox_removed">Keybox removed</string>
+    <string name="play_integrity_footer_summary">If you do not know what these settings do, leave them alone. Play Integrity Fix updates automatically; custom keyboxes are only for advanced users. Server-side shadow-bans may not appear in public CRL checks.</string>
+</resources>

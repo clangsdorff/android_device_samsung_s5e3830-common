@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Menaxhimi i profilit dhe keybox-it</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Merr dhe apliko automatikisht gjurmën Pixel Canary për DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Gjurma aktive</string>
+    <string name="play_integrity_pif_refresh_hint">Prekni për të marrë profilin më të fundit Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Çaktivizuar</string>
+    <string name="play_integrity_pif_updating">Duke marrë profilin Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Gjurma u përditësua</string>
+    <string name="play_integrity_pif_update_failed">Marrja e profilit Pixel Canary dështoi</string>
+    <string name="play_integrity_keybox_category">Keybox i vërtetimit</string>
+    <string name="play_integrity_keybox_install_title">Ngarko keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">I painstaluar (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Instaluar (%1$s) - I vlefshëm (CRL i pastër, skadon: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Instaluar (%1$s) - I revokuar (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Instaluar (%1$s) - I skaduar (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Instaluar (%1$s) - Ende i pavlefshëm</string>
+    <string name="play_integrity_keybox_status_aosp_test">Instaluar (%1$s) - Çelës prove AOSP (nuk kalon STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Instaluar (%1$s) - Kontrolli CRL dështoi (skadon: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox u instalua</string>
+    <string name="play_integrity_keybox_invalid">Skedar keybox.xml i pavlefshëm</string>
+    <string name="play_integrity_keybox_too_large">Skedari është shumë i madh (maks. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Hiq keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Kthehu te vërtetimi standard harduerik</string>
+    <string name="play_integrity_keybox_removed">Keybox u hoq</string>
+    <string name="play_integrity_footer_summary">Nëse nuk e dini se çfarë bëjnë këto cilësime, mos i prekni. Play Integrity Fix përditësohet automatikisht; keybox-et e personalizuara janë vetëm për përdorues të avancuar. Bllokimet e fshehta të serverit mund të mos shfaqen në CRL publik.</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">裝置設定檔與 Keybox 設定</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">自動擷取並套用 Pixel Canary 裝置設定檔至 DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">目前裝置設定檔</string>
+    <string name="play_integrity_pif_refresh_hint">輕觸以擷取最新 Pixel Canary 設定檔</string>
+    <string name="play_integrity_pif_disabled">已停用</string>
+    <string name="play_integrity_pif_updating">正在擷取最新 Pixel Canary 設定檔...</string>
+    <string name="play_integrity_pif_updated">裝置設定檔已更新</string>
+    <string name="play_integrity_pif_update_failed">無法擷取 Pixel Canary 設定檔</string>
+    <string name="play_integrity_keybox_category">證明 Keybox</string>
+    <string name="play_integrity_keybox_install_title">載入 keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">未安裝 (直通)</string>
+    <string name="play_integrity_keybox_status_valid">已安裝 (%1$s) - 有效 (CRL 正常，到期: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">已安裝 (%1$s) - 已撤銷 (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">已安裝 (%1$s) - 已過期 (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">已安裝 (%1$s) - 尚未生效</string>
+    <string name="play_integrity_keybox_status_aosp_test">已安裝 (%1$s) - AOSP 測試金鑰 (無法通過 STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">已安裝 (%1$s) - CRL 檢查失敗 (到期: %2$s)</string>
+    <string name="play_integrity_keybox_installed">已安裝 Keybox</string>
+    <string name="play_integrity_keybox_invalid">無效的 keybox.xml 檔案</string>
+    <string name="play_integrity_keybox_too_large">檔案過大 (上限 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">移除 Keybox</string>
+    <string name="play_integrity_keybox_remove_summary">還原為原廠硬體證明</string>
+    <string name="play_integrity_keybox_removed">已移除 Keybox</string>
+    <string name="play_integrity_footer_summary">如果您不清楚這些設定的用途，請勿變更。Play Integrity Fix 會自動更新；自訂 Keybox 僅供進階使用者使用。伺服器端隱藏封鎖可能不會顯示於公開 CRL 中。</string>
+</resources>

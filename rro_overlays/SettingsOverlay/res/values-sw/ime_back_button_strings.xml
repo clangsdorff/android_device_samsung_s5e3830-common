@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Onyesha kitufe cha kuficha kibodi"</string>
+    <string name="ime_back_button_in_navbar_summary">"Onyesha kitufe cha kuficha kibodi kwenye upau wa kuanzia, sehemu ya kuingiza data ikiteuliwa"</string>
+</resources>

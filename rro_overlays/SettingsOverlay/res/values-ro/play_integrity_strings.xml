@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Identitate dispozitiv și keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Descarcă și aplică automat profilul Pixel Canary pentru DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Profil dispozitiv activ</string>
+    <string name="play_integrity_pif_refresh_hint">Atinge pentru a descărca cel mai recent profil Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Dezactivat</string>
+    <string name="play_integrity_pif_updating">Se descarcă cel mai recent profil Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Profil dispozitiv actualizat</string>
+    <string name="play_integrity_pif_update_failed">Nu s-a putut descărca profilul Pixel Canary</string>
+    <string name="play_integrity_keybox_category">Keybox de atestare</string>
+    <string name="play_integrity_keybox_install_title">Încarcă keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Neinstalat (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Instalat (%1$s) - Valid (CRL curat, exp: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Instalat (%1$s) - Revocat (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Instalat (%1$s) - Expirat (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Instalat (%1$s) - Încă nevalid</string>
+    <string name="play_integrity_keybox_status_aosp_test">Instalat (%1$s) - Cheie de test AOSP (fără STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Instalat (%1$s) - Verificarea CRL a eșuat (exp: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox instalat</string>
+    <string name="play_integrity_keybox_invalid">Fișier keybox.xml nevalid</string>
+    <string name="play_integrity_keybox_too_large">Fișier prea mare (max 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Elimină keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Revino la atestarea hardware implicită</string>
+    <string name="play_integrity_keybox_removed">Keybox eliminat</string>
+    <string name="play_integrity_footer_summary">Dacă nu știți ce fac aceste setări, nu le modificați. Play Integrity Fix se actualizează automat; keybox-urile personalizate sunt doar pentru utilizatori avansați. Blocările ascunse de pe server pot să nu apară în lista CRL publică.</string>
+</resources>

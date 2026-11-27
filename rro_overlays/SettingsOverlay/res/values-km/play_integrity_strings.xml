@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">ការគ្រប់គ្រងប្រវត្តិរូប និង keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">ទាញយក និងអនុវត្តស្នាមម្រាមដៃ Pixel Canary ដោយស្វ័យប្រវត្តិសម្រាប់ DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">ស្នាមម្រាមដៃសកម្ម</string>
+    <string name="play_integrity_pif_refresh_hint">ចុចដើម្បីទាញយកប្រវត្តិរូប Pixel Canary ចុងក្រោយ</string>
+    <string name="play_integrity_pif_disabled">បានបិទ</string>
+    <string name="play_integrity_pif_updating">កំពុងទាញយកប្រវត្តិរូប Pixel Canary ចុងក្រោយ...</string>
+    <string name="play_integrity_pif_updated">បានធ្វើបច្ចុប្បន្នភាពស្នាមម្រាមដៃ</string>
+    <string name="play_integrity_pif_update_failed">បរាជ័យក្នុងការទាញយកប្រវត្តិរូប Pixel Canary</string>
+    <string name="play_integrity_keybox_category">Keybox បញ្ជាក់ភាពត្រឹមត្រូវ</string>
+    <string name="play_integrity_keybox_install_title">ផ្ទុក keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">មិនបានដំឡើង (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">បានដំឡើង (%1$s) - ត្រឹមត្រូវ (CRL ស្អាត, ផុតកំណត់: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">បានដំឡើង (%1$s) - ត្រូវបានដកហូត (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">បានដំឡើង (%1$s) - ផុតកំណត់ (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">បានដំឡើង (%1$s) - មិនទាន់មានសុពលភាព</string>
+    <string name="play_integrity_keybox_status_aosp_test">បានដំឡើង (%1$s) - កូនសោសាកល្បង AOSP (មិនឆ្លង STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">បានដំឡើង (%1$s) - ការពិនិត្យ CRL បរាជ័យ (ផុតកំណត់: %2$s)</string>
+    <string name="play_integrity_keybox_installed">បានដំឡើង keybox</string>
+    <string name="play_integrity_keybox_invalid">ឯកសារ keybox.xml មិនត្រឹមត្រូវ</string>
+    <string name="play_integrity_keybox_too_large">ឯកសារធំពេក (អតិបរមា 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">លុប keybox</string>
+    <string name="play_integrity_keybox_remove_summary">ត្រឡប់ទៅការបញ្ជាក់ផ្នែករឹងដើម</string>
+    <string name="play_integrity_keybox_removed">បានលុប keybox</string>
+    <string name="play_integrity_footer_summary">ប្រសិនបើអ្នកមិនដឹងថាការកំណត់ទាំងនេះធ្វើអ្វីទេ សូមកុំប៉ះវា។ Play Integrity Fix ធ្វើបច្ចុប្បន្នភាពដោយស្វ័យប្រវត្តិ; keybox ផ្ទាល់ខ្លួនគឺសម្រាប់តែអ្នកប្រើប្រាស់កម្រិតខ្ពស់ប៉ុណ្ណោះ។ ការហាមឃាត់លាក់កំបាំងនៅលើម៉ាស៊ីនមេអាចមិនបង្ហាញក្នុង CRL សាធារណៈទេ។</string>
+</resources>

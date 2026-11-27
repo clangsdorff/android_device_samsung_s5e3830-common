@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"키보드 숨기기 버튼 표시"</string>
+    <string name="ime_back_button_in_navbar_summary">"입력란이 선택되면 탐색 메뉴에 키보드 숨기기 버튼을 표시합니다."</string>
+</resources>

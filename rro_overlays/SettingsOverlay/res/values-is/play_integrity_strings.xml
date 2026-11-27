@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Umsjón með sniði og keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Sækja og nota Pixel Canary-fingrafar sjálfvirkt fyrir DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Virkt fingrafar</string>
+    <string name="play_integrity_pif_refresh_hint">Pikkaðu til að sækja nýjasta Pixel Canary-sniðið</string>
+    <string name="play_integrity_pif_disabled">Óvirkt</string>
+    <string name="play_integrity_pif_updating">Sæki nýjasta Pixel Canary-sniðið...</string>
+    <string name="play_integrity_pif_updated">Fingrafar uppfært</string>
+    <string name="play_integrity_pif_update_failed">Ekki tókst að sækja Pixel Canary-snið</string>
+    <string name="play_integrity_keybox_category">Vottunar-keybox</string>
+    <string name="play_integrity_keybox_install_title">Hlaða keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Ekki uppsett (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Uppsett (%1$s) - Gilt (CRL hreint, rennur út: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Uppsett (%1$s) - Afturkallað (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Uppsett (%1$s) - Útrunnið (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Uppsett (%1$s) - Ekki gilt enn</string>
+    <string name="play_integrity_keybox_status_aosp_test">Uppsett (%1$s) - AOSP-prófunarlykill (stenst ekki STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Uppsett (%1$s) - CRL-athugun mistókst (rennur út: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox uppsett</string>
+    <string name="play_integrity_keybox_invalid">Ógild keybox.xml skrá</string>
+    <string name="play_integrity_keybox_too_large">Skrá of stór (hám. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Fjarlægja keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Fara aftur í sjálfgefna vélbúnaðarvottun</string>
+    <string name="play_integrity_keybox_removed">Keybox fjarlægt</string>
+    <string name="play_integrity_footer_summary">Ef þú veist ekki hvað þessar stillingar gera skaltu láta þær eiga sig. Play Integrity Fix uppfærist sjálfvirkt; sérsniðin keybox eru aðeins fyrir lengra komna notendur. Hulin bönn á netþjóni birtast hugsanlega ekki í opinberri CRL.</string>
+</resources>

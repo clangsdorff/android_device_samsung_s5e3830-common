@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"کی بورڈ چھپانے کی کلید دکھائیں"</string>
+    <string name="ime_back_button_in_navbar_summary">"ان پٹ فیلڈ منتخب ہونے پر، کی بورڈ چھپانے کے بٹن کو نیویگیشن بار میں دکھائیں"</string>
+</resources>

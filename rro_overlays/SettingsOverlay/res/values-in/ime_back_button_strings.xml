@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"Tampilkan tombol untuk menyembunyikan keyboard"</string>
+    <string name="ime_back_button_in_navbar_summary">"Tampilkan tombol untuk menyembunyikan keyboard di panel navigasi, saat kolom input dipilih"</string>
+</resources>

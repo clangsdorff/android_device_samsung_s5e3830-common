@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Սարքի ինքնություն և keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Ավտոմատ ներբեռնել և կիրառել Pixel Canary սարքի պրոֆիլը DroidGuard-ի համար</string>
+    <string name="play_integrity_pif_profile_title">Ակտիվ սարքի պրոֆիլ</string>
+    <string name="play_integrity_pif_refresh_hint">Հպեք՝ վերջին Pixel Canary պրոֆիլը ներբեռնելու համար</string>
+    <string name="play_integrity_pif_disabled">Անջատված է</string>
+    <string name="play_integrity_pif_updating">Ներբեռնվում է Pixel Canary պրոֆիլը...</string>
+    <string name="play_integrity_pif_updated">Սարքի պրոֆիլը թարմացվեց</string>
+    <string name="play_integrity_pif_update_failed">Չհաջողվեց ներբեռնել Pixel Canary պրոֆիլը</string>
+    <string name="play_integrity_keybox_category">Ատեստավորման keybox</string>
+    <string name="play_integrity_keybox_install_title">Բեռնել keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Տեղադրված չէ (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Տեղադրված է (%1$s) - Վավեր է (CRL մաքուր է, ժամկետ՝ %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Տեղադրված է (%1$s) - Հետ է կանչված (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Տեղադրված է (%1$s) - Ժամկետանց է (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Տեղադրված է (%1$s) - Դեռ վավեր չէ</string>
+    <string name="play_integrity_keybox_status_aosp_test">Տեղադրված է (%1$s) - AOSP փորձնական բանալի (STRONG չի անցնի)</string>
+    <string name="play_integrity_keybox_status_offline">Տեղադրված է (%1$s) - CRL ստուգումը ձախողվեց (ժամկետ՝ %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox-ը տեղադրվեց</string>
+    <string name="play_integrity_keybox_invalid">Անվավեր keybox.xml ֆայլ</string>
+    <string name="play_integrity_keybox_too_large">Ֆայլը չափազանց մեծ է (առավել. 256 ԿԲ)</string>
+    <string name="play_integrity_keybox_remove_title">Հեռացնել keybox-ը</string>
+    <string name="play_integrity_keybox_remove_summary">Վերադառնալ գործարանային սարքային ատեստավորման</string>
+    <string name="play_integrity_keybox_removed">Keybox-ը հեռացվեց</string>
+    <string name="play_integrity_footer_summary">Եթե չգիտեք, թե ինչ են անում այս կարգավորումները, մի փոխեք դրանք։ Play Integrity Fix-ը թարմացվում է ավտոմատ կերպով, իսկ հատուկ keybox-երը միայն փորձառու օգտատերերի համար են։ Սերվերային գաղտնի արգելափակումները կարող են չերևալ հանրային CRL-ում։</string>
+</resources>

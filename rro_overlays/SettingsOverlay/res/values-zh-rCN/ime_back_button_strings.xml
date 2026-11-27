@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ime_back_button_in_navbar_title">"显示键盘隐藏键"</string>
+    <string name="ime_back_button_in_navbar_summary">"选择输入字段时，在导航栏中显示键盘隐藏按钮"</string>
+</resources>

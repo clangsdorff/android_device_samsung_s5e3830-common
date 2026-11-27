@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">ప్రొఫైల్ మరియు keybox నిర్వహణ</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">DroidGuard కోసం Pixel Canary వేలిముద్రను స్వయంచాలకంగా పొంది వర్తింపజేయి</string>
+    <string name="play_integrity_pif_profile_title">క్రియాశీల వేలిముద్ర</string>
+    <string name="play_integrity_pif_refresh_hint">తాజా Pixel Canary ప్రొఫైల్‌ను పొందడానికి నొక్కండి</string>
+    <string name="play_integrity_pif_disabled">నిలిపివేయబడింది</string>
+    <string name="play_integrity_pif_updating">తాజా Pixel Canary ప్రొఫైల్‌ను పొందుతోంది...</string>
+    <string name="play_integrity_pif_updated">వేలిముద్ర నవీకరించబడింది</string>
+    <string name="play_integrity_pif_update_failed">Pixel Canary ప్రొఫైల్‌ను పొందడం విఫలమైంది</string>
+    <string name="play_integrity_keybox_category">ధృవీకరణ keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml లోడ్ చేయి</string>
+    <string name="play_integrity_keybox_status_none">ఇన్‌స్టాల్ కాలేదు (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">ఇన్‌స్టాల్ చేయబడింది (%1$s) - చెల్లుబాటు (CRL శుభ్రం, గడువు: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">ఇన్‌స్టాల్ చేయబడింది (%1$s) - రద్దు చేయబడింది (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">ఇన్‌స్టాల్ చేయబడింది (%1$s) - గడువు ముగిసింది (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">ఇన్‌స్టాల్ చేయబడింది (%1$s) - ఇంకా చెల్లుబాటు కాదు</string>
+    <string name="play_integrity_keybox_status_aosp_test">ఇన్‌స్టాల్ చేయబడింది (%1$s) - AOSP పరీక్ష కీ (STRONG పాస్ కాదు)</string>
+    <string name="play_integrity_keybox_status_offline">ఇన్‌స్టాల్ చేయబడింది (%1$s) - CRL తనిఖీ విఫలమైంది (గడువు: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox ఇన్‌స్టాల్ చేయబడింది</string>
+    <string name="play_integrity_keybox_invalid">చెల్లని keybox.xml ఫైల్</string>
+    <string name="play_integrity_keybox_too_large">ఫైల్ చాలా పెద్దది (గరిష్టంగా 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">keybox తొలగించు</string>
+    <string name="play_integrity_keybox_remove_summary">డిఫాల్ట్ హార్డ్‌వేర్ ధృవీకరణకు తిరిగి వెళ్ళు</string>
+    <string name="play_integrity_keybox_removed">Keybox తొలగించబడింది</string>
+    <string name="play_integrity_footer_summary">ఈ సెట్టింగ్‌లు ఏమి చేస్తాయో మీకు తెలియకపోతే, వాటిని మార్చవద్దు. Play Integrity Fix స్వయంచాలకంగా నవీకరించబడుతుంది; కస్టమ్ keybox అధునాతన వినియోగదారులకు మాత్రమే. సర్వర్ వైపు రహస్య నిషేధాలు పబ్లిక్ CRLలో కనిపించకపోవచ్చు.</string>
+</resources>

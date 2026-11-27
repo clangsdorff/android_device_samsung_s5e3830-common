@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Toestelidentiteit en keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Laai en pas Pixel Canary-toestelprofiel outomaties vir DroidGuard toe</string>
+    <string name="play_integrity_pif_profile_title">Aktiewe toestelprofiel</string>
+    <string name="play_integrity_pif_refresh_hint">Tik om die nuutste Pixel Canary-profiel te laai</string>
+    <string name="play_integrity_pif_disabled">Gedeaktiveer</string>
+    <string name="play_integrity_pif_updating">Laai tans nuutste Pixel Canary-profiel...</string>
+    <string name="play_integrity_pif_updated">Toestelprofiel opgedateer</string>
+    <string name="play_integrity_pif_update_failed">Kon nie Pixel Canary-profiel laai nie</string>
+    <string name="play_integrity_keybox_category">Attestasie-keybox</string>
+    <string name="play_integrity_keybox_install_title">Laai keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Nie geïnstalleer nie (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Geïnstalleer (%1$s) - Geldig (CRL skoon, verval: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Geïnstalleer (%1$s) - Herroep (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Geïnstalleer (%1$s) - Verval (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Geïnstalleer (%1$s) - Nog nie geldig nie</string>
+    <string name="play_integrity_keybox_status_aosp_test">Geïnstalleer (%1$s) - AOSP-toetssleutel (slaag nie STRONG nie)</string>
+    <string name="play_integrity_keybox_status_offline">Geïnstalleer (%1$s) - CRL-kontrole het misluk (verval: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox geïnstalleer</string>
+    <string name="play_integrity_keybox_invalid">Ongeldige keybox.xml-lêer</string>
+    <string name="play_integrity_keybox_too_large">Lêer te groot (maks. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Verwyder keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Keer terug na standaard hardeware-attestasie</string>
+    <string name="play_integrity_keybox_removed">Keybox verwyder</string>
+    <string name="play_integrity_footer_summary">As jy nie weet wat hierdie instellings doen nie, los dit uit. Play Integrity Fix werk outomaties op; pasgemaakte keyboxes is slegs vir gevorderde gebruikers. Bediener-kant skadu-verbod verskyn dalk nie in openbare CRL nie.</string>
+</resources>

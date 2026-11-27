@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Ubunikazi bedivayisi ne-keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Landa futhi usebenzise iphrofayela yedivayisi ye-Pixel Canary ngokuzenzakalelayo ku-DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Iphrofayela yedivayisi esebenzayo</string>
+    <string name="play_integrity_pif_refresh_hint">Thepha ukuze uthole iphrofayela yakamuva ye-Pixel Canary</string>
+    <string name="play_integrity_pif_disabled">Kukhutshaziwe</string>
+    <string name="play_integrity_pif_updating">Ilungisa iphrofayela yakamuva ye-Pixel Canary...</string>
+    <string name="play_integrity_pif_updated">Iphrofayela yedivayisi ibuyekeziwe</string>
+    <string name="play_integrity_pif_update_failed">Kwehlulekile ukuthola iphrofayela ye-Pixel Canary</string>
+    <string name="play_integrity_keybox_category">I-keybox yokuqinisekisa</string>
+    <string name="play_integrity_keybox_install_title">Layisha i-keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Akufakiwe (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Kufakiwe (%1$s) - Kuvumelekile (i-CRL ihlanzekile, kuphelelwa: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Kufakiwe (%1$s) - Kuhoxisiwe (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Kufakiwe (%1$s) - Kuphelelwe yisikhathi (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Kufakiwe (%1$s) - Akukavumeleki okwamanje</string>
+    <string name="play_integrity_keybox_status_aosp_test">Kufakiwe (%1$s) - Ukhiye wokuhlola we-AOSP (ngeke udlule ku-STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Kufakiwe (%1$s) - Ukuhlolwa kwe-CRL kwehlulekile (kuphelelwa: %2$s)</string>
+    <string name="play_integrity_keybox_installed">I-keybox ifakiwe</string>
+    <string name="play_integrity_keybox_invalid">Ifayela le-keybox.xml elingavumelekile</string>
+    <string name="play_integrity_keybox_too_large">Ifayela likhulu kakhulu (ubukhulu 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Susa i-keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Buyela ekuqinisekiseni kwehadiwe okujwayelekile</string>
+    <string name="play_integrity_keybox_removed">I-keybox isusiwe</string>
+    <string name="play_integrity_footer_summary">Uma ungazi ukuthi lezi zilungiselelo zenzani, ungazishintshi. I-Play Integrity Fix ibuyekezwa ngokuzenzakalelayo; ama-keybox angokwezifiso awabasebenzisi abathuthukile kuphela. Ukuvinjelwa okufihliwe kweseva kungase kungaveli ku-CRL yomphakathi.</string>
+</resources>

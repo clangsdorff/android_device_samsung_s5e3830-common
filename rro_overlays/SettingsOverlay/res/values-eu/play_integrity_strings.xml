@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Profilaren eta keybox-aren kudeaketa</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Eskuratu eta aplikatu automatikoki Pixel Canary hatz-marka DroidGuard-en</string>
+    <string name="play_integrity_pif_profile_title">Hatz-marka aktiboa</string>
+    <string name="play_integrity_pif_refresh_hint">Sakatu azken Pixel Canary profila eskuratzeko</string>
+    <string name="play_integrity_pif_disabled">Desgaituta</string>
+    <string name="play_integrity_pif_updating">Azken Pixel Canary profila eskuratzen...</string>
+    <string name="play_integrity_pif_updated">Hatz-marka eguneratu da</string>
+    <string name="play_integrity_pif_update_failed">Ezin izan da Pixel Canary profila eskuratu</string>
+    <string name="play_integrity_keybox_category">Egiaztapen keybox-a</string>
+    <string name="play_integrity_keybox_install_title">Kargatu keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Instalatu gabe (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Instalatuta (%1$s) - Baliozkoa (CRL garbia, iraung: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Instalatuta (%1$s) - Baliogabetua (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Instalatuta (%1$s) - Iraungita (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Instalatuta (%1$s) - Oraindik ez da baliozkoa</string>
+    <string name="play_integrity_keybox_status_aosp_test">Instalatuta (%1$s) - AOSP proba-gakoa (ez du STRONG gainditzen)</string>
+    <string name="play_integrity_keybox_status_offline">Instalatuta (%1$s) - CRL egiaztapenak huts egin du (iraung: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox instalatu da</string>
+    <string name="play_integrity_keybox_invalid">keybox.xml fitxategi baliogabea</string>
+    <string name="play_integrity_keybox_too_large">Fitxategi handiegia (geh. 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Kendu keybox-a</string>
+    <string name="play_integrity_keybox_remove_summary">Itzuli jatorrizko hardware-egiaztapenera</string>
+    <string name="play_integrity_keybox_removed">Keybox kendu da</string>
+    <string name="play_integrity_footer_summary">Ezarpen hauek zertarako diren ez badakizu, ez ukitu. Play Integrity Fix automatikoki eguneratzen da; keybox pertsonalizatuak erabiltzaile aurreratuentzat dira soilik. Zerbitzariaren itzalpeko blokeoak agian ez dira CRL publikoan agertuko.</string>
+</resources>

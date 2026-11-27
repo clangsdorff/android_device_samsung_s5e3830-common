@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">የመገለጫ እና keybox አስተዳደር</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">ለDroidGuard የPixel Canary አሻራን በራስ-ሰር አምጣ እና ተግብር</string>
+    <string name="play_integrity_pif_profile_title">ንቁ አሻራ</string>
+    <string name="play_integrity_pif_refresh_hint">የቅርብ ጊዜውን የPixel Canary መገለጫ ለማምጣት ይንኩ</string>
+    <string name="play_integrity_pif_disabled">ተሰናክሏል</string>
+    <string name="play_integrity_pif_updating">የቅርብ ጊዜው የPixel Canary መገለጫ በመምጣት ላይ...</string>
+    <string name="play_integrity_pif_updated">አሻራ ተዘምኗል</string>
+    <string name="play_integrity_pif_update_failed">የPixel Canary መገለጫን ማምጣት አልተሳካም</string>
+    <string name="play_integrity_keybox_category">የማረጋገጫ keybox</string>
+    <string name="play_integrity_keybox_install_title">keybox.xml ጫን</string>
+    <string name="play_integrity_keybox_status_none">አልተጫነም (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">ተጭኗል (%1$s) - ትክክለኛ (CRL ንጹህ፣ ማብቂያ: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">ተጭኗል (%1$s) - ተሰርዟል (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">ተጭኗል (%1$s) - ጊዜው አልፏል (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">ተጭኗል (%1$s) - ገና ትክክለኛ አይደለም</string>
+    <string name="play_integrity_keybox_status_aosp_test">ተጭኗል (%1$s) - የAOSP ሙከራ ቁልፍ (STRONG አያልፍም)</string>
+    <string name="play_integrity_keybox_status_offline">ተጭኗል (%1$s) - የCRL ፍተሻ አልተሳካም (ማብቂያ: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox ተጭኗል</string>
+    <string name="play_integrity_keybox_invalid">ልክ ያልሆነ keybox.xml ፋይል</string>
+    <string name="play_integrity_keybox_too_large">ፋይሉ በጣም ትልቅ ነው (ከፍተኛ 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Keybox አስወግድ</string>
+    <string name="play_integrity_keybox_remove_summary">ወደ ነባሪ የሃርድዌር ማረጋገጫ ተመለስ</string>
+    <string name="play_integrity_keybox_removed">Keybox ተወግዷል</string>
+    <string name="play_integrity_footer_summary">እነዚህ ቅንብሮች ምን እንደሚሠሩ ካላወቁ አይንኩዋቸው። Play Integrity Fix በራስ-ሰር ይዘምናል፤ ብጁ keybox ለላቁ ተጠቃሚዎች ብቻ ነው። የአገልጋይ ድብቅ እገዳዎች በይፋዊ CRL ውስጥ ላይታዩ ይችላሉ።</string>
+</resources>

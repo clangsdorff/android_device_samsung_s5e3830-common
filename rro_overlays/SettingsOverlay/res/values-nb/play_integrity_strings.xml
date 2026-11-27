@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="play_integrity_title">Play Integrity</string>
+    <string name="play_integrity_summary">Enhetsidentitet og keybox</string>
+    <string name="play_integrity_pif_toggle_title">Play Integrity Fix</string>
+    <string name="play_integrity_pif_toggle_summary">Hent og bruk Pixel Canary-enhetsprofil automatisk for DroidGuard</string>
+    <string name="play_integrity_pif_profile_title">Aktiv enhetsprofil</string>
+    <string name="play_integrity_pif_refresh_hint">Trykk for å hente nyeste Pixel Canary-profil</string>
+    <string name="play_integrity_pif_disabled">Deaktivert</string>
+    <string name="play_integrity_pif_updating">Henter nyeste Pixel Canary-profil...</string>
+    <string name="play_integrity_pif_updated">Enhetsprofil oppdatert</string>
+    <string name="play_integrity_pif_update_failed">Kunne ikke hente Pixel Canary-profil</string>
+    <string name="play_integrity_keybox_category">Attesterings-keybox</string>
+    <string name="play_integrity_keybox_install_title">Last inn keybox.xml</string>
+    <string name="play_integrity_keybox_status_none">Ikke installert (Passthrough)</string>
+    <string name="play_integrity_keybox_status_valid">Installert (%1$s) - Gyldig (CRL ren, utløper: %2$s)</string>
+    <string name="play_integrity_keybox_status_revoked">Installert (%1$s) - Tilbakekalt (%2$s)</string>
+    <string name="play_integrity_keybox_status_expired">Installert (%1$s) - Utløpt (%2$s)</string>
+    <string name="play_integrity_keybox_status_not_yet_valid">Installert (%1$s) - Ikke gyldig ennå</string>
+    <string name="play_integrity_keybox_status_aosp_test">Installert (%1$s) - AOSP-testnøkkel (klarer ikke STRONG)</string>
+    <string name="play_integrity_keybox_status_offline">Installert (%1$s) - CRL-kontroll mislyktes (utløper: %2$s)</string>
+    <string name="play_integrity_keybox_installed">Keybox installert</string>
+    <string name="play_integrity_keybox_invalid">Ugyldig keybox.xml-fil</string>
+    <string name="play_integrity_keybox_too_large">Filen er for stor (maks 256 KB)</string>
+    <string name="play_integrity_keybox_remove_title">Fjern keybox</string>
+    <string name="play_integrity_keybox_remove_summary">Gå tilbake til standard maskinvareattestering</string>
+    <string name="play_integrity_keybox_removed">Keybox fjernet</string>
+    <string name="play_integrity_footer_summary">Hvis du ikke vet hva disse innstillingene gjør, bør du la dem være i fred. Play Integrity Fix oppdateres automatisk; egne keyboxer er kun for avanserte brukere. Skjulte serverblokkeringer vises kanskje ikke i offentlige CRL-lister.</string>
+</resources>
