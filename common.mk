@@ -184,6 +184,9 @@ PRODUCT_PACKAGES += \
     secril_config_svc \
     sehradiomanager
 
+PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
+    system/etc/apns-conf.xml
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors-service.samsung-multihal
