@@ -23,6 +23,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/media_vendor.mk)
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk)
 
+PRODUCT_SYSTEM_PROPERTIES += \
+    dalvik.vm.madvise.artfile.size=4294967295 \
+    pm.dexopt.post-boot=speed-profile \
+    pm.dexopt.boot-after-ota=speed-profile
+
 # Enable project quotas and casefolding for emulated storage without sdcardfs
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 
