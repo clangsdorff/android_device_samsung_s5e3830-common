@@ -320,5 +320,4 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/pixel/thermal \
     hardware/samsung \
     hardware/samsung_slsi-linaro/exynos/abox \
-    hardware/samsung_slsi-linaro/exynos/cpboot_v3 \
-    hardware/samsung_slsi-linaro/graphics/base/memtrack-exynos
+    hardware/samsung_slsi-linaro/exynos/cpboot_v3
