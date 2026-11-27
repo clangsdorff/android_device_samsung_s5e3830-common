@@ -7,6 +7,7 @@ TARGET_EXCLUDE_ADB_ROOT := true
 TARGET_EXCLUDES_AUDIOFX := true
 TARGET_EXCLUDE_LOS_EXTRA_CLI_UTILS := true
 TARGET_SKIP_BACKUPTOOL := true
+TARGET_SUPPORTS_QUICK_TAP := false
 
 # Inherit some common Lineage stuff
 $(call inherit-product, $(SRC_TARGET_DIR)/product/generic_system.mk)
