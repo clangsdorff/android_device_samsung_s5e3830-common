@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Skjámynd með þremur fingrum</string>
+    <string name="three_finger_screenshot_summary">Strjúktu niður með þremur fingrum til að taka skjámynd. Virkar ekki á meðan GameSpace-leikur er opinn.</string>
+</resources>

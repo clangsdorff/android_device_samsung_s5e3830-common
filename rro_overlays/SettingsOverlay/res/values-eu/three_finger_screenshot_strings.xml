@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Hiru hatzeko pantaila-argazkia</string>
+    <string name="three_finger_screenshot_summary">Pasatu hiru hatz behera pantaila-argazki bat ateratzeko. Ez dabil GameSpace jokoren bat irekita dagoenean.</string>
+</resources>

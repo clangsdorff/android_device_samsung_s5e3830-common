@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Mga setting ng ROM</string>
+    <string name="rom_settings_summary">Mga secure na screenshot, sound pack, pag-optimize ng app</string>
+    <string name="rom_settings_ignore_secure_title">Payagan ang mga screenshot sa mga secure na app</string>
+    <string name="rom_settings_ignore_secure_summary">Binabalewala ang FLAG_SECURE para gumana ang mga screenshot, screen recording, at pag-cast sa bawat app. Nananatiling itim ang DRM video.</string>
+    <string name="rom_settings_sound_pack_title">Sound pack</string>
+    <string name="rom_settings_sound_pack_applied">Napalitan ang default na ringtone, notification, alarm, at mga tunog ng system</string>
+    <string name="rom_settings_dexopt_title">I-optimize na ngayon ang mga app</string>
+    <string name="rom_settings_dexopt_summary">Kino-compile ang mga app ayon sa kanilang mga profile sa paggamit sa halip na maghintay sa idle na maintenance window. Ipinapakita ang progreso sa isang notification.</string>
+    <string name="rom_settings_dexopt_started">Nagsimula ang pag-optimize ng app</string>
+</resources>

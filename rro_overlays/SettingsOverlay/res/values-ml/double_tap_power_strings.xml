@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="double_tap_power_torch_action_title">ഫ്ലാഷ്‌ലൈറ്റ്</string>
+    <string name="double_tap_power_torch_action_summary">ഫ്ലാഷ്‌ലൈറ്റ് ഓണാക്കുക/ഓഫാക്കുക</string>
+    <string name="double_tap_power_app_action_title">ഒരു ആപ്പ് തുറക്കുക</string>
+    <string name="double_tap_power_app_action_summary"><xliff:g id="app_name" example="Maps">%1$s</xliff:g> തുറക്കുക</string>
+    <string name="double_tap_power_app_action_none">ആപ്പൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല</string>
+    <string name="double_tap_power_app_action_picker_title">ഒരു ആപ്പ് തിരഞ്ഞെടുക്കുക</string>
+</resources>

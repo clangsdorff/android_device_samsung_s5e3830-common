@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Tetapan ROM</string>
+    <string name="rom_settings_summary">Tangkapan skrin selamat, pek bunyi, pengoptimuman apl</string>
+    <string name="rom_settings_ignore_secure_title">Benarkan tangkapan skrin dalam apl selamat</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE diabaikan supaya tangkapan skrin, rakaman skrin dan penghantaran berfungsi dalam setiap apl. Video DRM kekal hitam.</string>
+    <string name="rom_settings_sound_pack_title">Pek bunyi</string>
+    <string name="rom_settings_sound_pack_applied">Nada dering, pemberitahuan, penggera dan bunyi sistem lalai telah diubah</string>
+    <string name="rom_settings_dexopt_title">Optimumkan apl sekarang</string>
+    <string name="rom_settings_dexopt_summary">Apl dikompil mengikut profil penggunaannya tanpa menunggu tetingkap penyelenggaraan semasa melahu. Kemajuan dipaparkan dalam pemberitahuan.</string>
+    <string name="rom_settings_dexopt_started">Pengoptimuman apl dimulakan</string>
+</resources>

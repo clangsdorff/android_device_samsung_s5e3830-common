@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Ekrānuzņēmums ar trim pirkstiem</string>
+    <string name="three_finger_screenshot_summary">Velciet uz leju ar trim pirkstiem, lai uzņemtu ekrānuzņēmumu. Nedarbojas, kamēr ir atvērta GameSpace spēle.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="double_tap_power_torch_action_title">Đèn pin</string>
+    <string name="double_tap_power_torch_action_summary">Bật/tắt đèn pin</string>
+    <string name="double_tap_power_app_action_title">Mở một ứng dụng</string>
+    <string name="double_tap_power_app_action_summary">Mở <xliff:g id="app_name" example="Maps">%1$s</xliff:g></string>
+    <string name="double_tap_power_app_action_none">Chưa chọn ứng dụng nào</string>
+    <string name="double_tap_power_app_action_picker_title">Chọn một ứng dụng</string>
+</resources>

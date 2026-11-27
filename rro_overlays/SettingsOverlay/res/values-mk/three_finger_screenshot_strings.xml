@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Слика од екранот со три прсти</string>
+    <string name="three_finger_screenshot_summary">Повлечете надолу со три прста за да направите слика од екранот. Не работи додека е отворена игра во GameSpace.</string>
+</resources>

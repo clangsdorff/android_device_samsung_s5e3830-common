@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM 설정</string>
+    <string name="rom_settings_summary">보안 스크린샷, 사운드 팩, 앱 최적화</string>
+    <string name="rom_settings_ignore_secure_title">보안 앱에서 스크린샷 허용</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE를 무시하여 모든 앱에서 스크린샷, 화면 녹화, 전송이 작동합니다. DRM 동영상은 계속 검은 화면으로 나옵니다.</string>
+    <string name="rom_settings_sound_pack_title">사운드 팩</string>
+    <string name="rom_settings_sound_pack_applied">기본 벨소리, 알림음, 알람, 시스템 소리가 변경되었습니다</string>
+    <string name="rom_settings_dexopt_title">지금 앱 최적화</string>
+    <string name="rom_settings_dexopt_summary">유휴 상태 유지보수 시간을 기다리지 않고 사용 프로필에 따라 앱을 컴파일합니다. 진행 상황은 알림에 표시됩니다.</string>
+    <string name="rom_settings_dexopt_started">앱 최적화를 시작했습니다</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Ustawienia ROM</string>
+    <string name="rom_settings_summary">Bezpieczne zrzuty ekranu, pakiet dźwięków, optymalizacja aplikacji</string>
+    <string name="rom_settings_ignore_secure_title">Zezwalaj na zrzuty ekranu w zabezpieczonych aplikacjach</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE jest ignorowane, dzięki czemu zrzuty ekranu, nagrywanie ekranu i przesyłanie obrazu działają w każdej aplikacji. Filmy z DRM pozostają czarne.</string>
+    <string name="rom_settings_sound_pack_title">Pakiet dźwięków</string>
+    <string name="rom_settings_sound_pack_applied">Zmieniono domyślne dźwięki dzwonka, powiadomień, budzika i systemu</string>
+    <string name="rom_settings_dexopt_title">Zoptymalizuj aplikacje teraz</string>
+    <string name="rom_settings_dexopt_summary">Aplikacje są kompilowane według profili użycia, bez czekania na okno konserwacji w stanie bezczynności. Postęp widać w powiadomieniu.</string>
+    <string name="rom_settings_dexopt_started">Rozpoczęto optymalizację aplikacji</string>
+</resources>

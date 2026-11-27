@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Cài đặt ROM</string>
+    <string name="rom_settings_summary">Ảnh chụp màn hình bảo mật, gói âm thanh, tối ưu hóa ứng dụng</string>
+    <string name="rom_settings_ignore_secure_title">Cho phép chụp ảnh màn hình trong ứng dụng bảo mật</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE bị bỏ qua để ảnh chụp màn hình, quay màn hình và truyền màn hình hoạt động trong mọi ứng dụng. Video DRM vẫn hiển thị màu đen.</string>
+    <string name="rom_settings_sound_pack_title">Gói âm thanh</string>
+    <string name="rom_settings_sound_pack_applied">Đã đổi nhạc chuông, âm thông báo, báo thức và âm thanh hệ thống mặc định</string>
+    <string name="rom_settings_dexopt_title">Tối ưu hóa ứng dụng ngay</string>
+    <string name="rom_settings_dexopt_summary">Ứng dụng được biên dịch theo hồ sơ sử dụng thay vì chờ khung bảo trì khi rảnh. Tiến trình hiển thị trong thông báo.</string>
+    <string name="rom_settings_dexopt_started">Đã bắt đầu tối ưu hóa ứng dụng</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Langsdorff
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="rom_dexopt_running_title">Optimalizace aplikací</string>
+    <string name="rom_dexopt_running_text">Aplikace mohou být do dokončení pomalejší</string>
+    <string name="rom_dexopt_done_title">Optimalizace aplikací dokončena</string>
+    <string name="rom_dexopt_cancelled_title">Optimalizace aplikací zrušena</string>
+    <string name="rom_dexopt_done_text">Optimalizované aplikace: <xliff:g id="count" example="12">%1$d</xliff:g></string>
+</resources>

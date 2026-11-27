@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ezarpenak</string>
+    <string name="rom_settings_summary">Pantaila-argazki seguruak, soinu-paketea, aplikazioen optimizazioa</string>
+    <string name="rom_settings_ignore_secure_title">Onartu pantaila-argazkiak aplikazio seguruetan</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ez da kontuan hartzen, pantaila-argazkiek, pantaila-grabaketak eta igorpenak aplikazio guztietan funtziona dezaten. DRM bideoak beltz geratzen dira.</string>
+    <string name="rom_settings_sound_pack_title">Soinu-paketea</string>
+    <string name="rom_settings_sound_pack_applied">Tonu, jakinarazpen, alarma eta sistemaren soinu lehenetsiak aldatu dira</string>
+    <string name="rom_settings_dexopt_title">Optimizatu aplikazioak orain</string>
+    <string name="rom_settings_dexopt_summary">Aplikazioak erabilera-profilen arabera konpilatzen dira, inaktibo dagoenean egiten den mantentze-leihoa itxaron gabe. Aurrerapena jakinarazpen batean erakusten da.</string>
+    <string name="rom_settings_dexopt_started">Aplikazioen optimizazioa hasi da</string>
+</resources>

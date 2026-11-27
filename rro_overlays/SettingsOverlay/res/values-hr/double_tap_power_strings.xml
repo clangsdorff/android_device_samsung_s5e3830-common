@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="double_tap_power_torch_action_title">Svjetiljka</string>
+    <string name="double_tap_power_torch_action_summary">Uključi/isključi svjetiljku</string>
+    <string name="double_tap_power_app_action_title">Otvori aplikaciju</string>
+    <string name="double_tap_power_app_action_summary">Otvori aplikaciju <xliff:g id="app_name" example="Maps">%1$s</xliff:g></string>
+    <string name="double_tap_power_app_action_none">Nije odabrana nijedna aplikacija</string>
+    <string name="double_tap_power_app_action_picker_title">Odaberite aplikaciju</string>
+</resources>

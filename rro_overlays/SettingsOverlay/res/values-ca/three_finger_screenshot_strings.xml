@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Captura de pantalla amb tres dits</string>
+    <string name="three_finger_screenshot_summary">Llisca cap avall amb tres dits per fer una captura de pantalla. No funciona mentre hi ha un joc de GameSpace obert.</string>
+</resources>

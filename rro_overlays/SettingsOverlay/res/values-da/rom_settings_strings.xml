@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-indstillinger</string>
+    <string name="rom_settings_summary">Sikre skærmbilleder, lydpakke, appoptimering</string>
+    <string name="rom_settings_ignore_secure_title">Tillad skærmbilleder i sikre apps</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ignoreres, så skærmbilleder, skærmoptagelse og casting virker i alle apps. DRM-video forbliver sort.</string>
+    <string name="rom_settings_sound_pack_title">Lydpakke</string>
+    <string name="rom_settings_sound_pack_applied">Standardlyde til ringetone, notifikation, alarm og system er ændret</string>
+    <string name="rom_settings_dexopt_title">Optimer apps nu</string>
+    <string name="rom_settings_dexopt_summary">Apps kompileres efter deres brugsprofiler i stedet for at vente på vedligeholdelsesvinduet i inaktiv tilstand. Fremdriften vises i en notifikation.</string>
+    <string name="rom_settings_dexopt_started">Appoptimering er startet</string>
+</resources>

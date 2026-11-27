@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">మూడు వేళ్లతో స్క్రీన్‌షాట్</string>
+    <string name="three_finger_screenshot_summary">స్క్రీన్‌షాట్ తీయడానికి మూడు వేళ్లతో కిందికి స్వైప్ చేయండి. GameSpace గేమ్ తెరిచి ఉన్నప్పుడు పని చేయదు.</string>
+</resources>

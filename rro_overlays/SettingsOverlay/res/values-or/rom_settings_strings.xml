@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ସେଟିଂସ</string>
+    <string name="rom_settings_summary">ସୁରକ୍ଷିତ ସ୍କ୍ରିନସଟ, ସାଉଣ୍ଡ ପ୍ୟାକ, ଆପ ଅପ୍ଟିମାଇଜେସନ</string>
+    <string name="rom_settings_ignore_secure_title">ସୁରକ୍ଷିତ ଆପରେ ସ୍କ୍ରିନସଟକୁ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="rom_settings_ignore_secure_summary">ପ୍ରତ୍ୟେକ ଆପରେ ସ୍କ୍ରିନସଟ, ସ୍କ୍ରିନ ରେକର୍ଡିଂ ଏବଂ କାଷ୍ଟ କାମ କରିବା ପାଇଁ FLAG_SECURE କୁ ଅଣଦେଖା କରାଯାଏ। DRM ଭିଡିଓ କଳା ହିଁ ରହେ।</string>
+    <string name="rom_settings_sound_pack_title">ସାଉଣ୍ଡ ପ୍ୟାକ</string>
+    <string name="rom_settings_sound_pack_applied">ଡିଫଲ୍ଟ ରିଙ୍ଗଟୋନ, ବିଜ୍ଞପ୍ତି, ଆଲାରାମ ଏବଂ ସିଷ୍ଟମ ସାଉଣ୍ଡ ବଦଳାଗଲା</string>
+    <string name="rom_settings_dexopt_title">ଆପଗୁଡ଼ିକୁ ବର୍ତ୍ତମାନ ଅପ୍ଟିମାଇଜ କରନ୍ତୁ</string>
+    <string name="rom_settings_dexopt_summary">ନିଷ୍କ୍ରିୟ ରକ୍ଷଣାବେକ୍ଷଣ ୱିଣ୍ଡୋ ପାଇଁ ଅପେକ୍ଷା ନକରି ଆପଗୁଡ଼ିକୁ ସେମାନଙ୍କ ବ୍ୟବହାର ପ୍ରୋଫାଇଲ ଅନୁସାରେ କମ୍ପାଇଲ କରାଯାଏ। ପ୍ରଗତି ବିଜ୍ଞପ୍ତିରେ ଦେଖାଯାଏ।</string>
+    <string name="rom_settings_dexopt_started">ଆପ ଅପ୍ଟିମାଇଜେସନ ଆରମ୍ଭ ହେଲା</string>
+</resources>

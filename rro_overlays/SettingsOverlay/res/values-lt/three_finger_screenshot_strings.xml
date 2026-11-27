@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Ekrano kopija trimis pirštais</string>
+    <string name="three_finger_screenshot_summary">Perbraukite žemyn trimis pirštais, kad padarytumėte ekrano kopiją. Neveikia, kol atidarytas „GameSpace“ žaidimas.</string>
+</resources>

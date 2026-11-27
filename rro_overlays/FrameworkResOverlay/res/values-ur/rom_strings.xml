@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Langsdorff
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="rom_dexopt_running_title">ایپس آپٹیمائز ہو رہی ہیں</string>
+    <string name="rom_dexopt_running_text">اس کے مکمل ہونے تک ایپس سست ہو سکتی ہیں</string>
+    <string name="rom_dexopt_done_title">ایپ آپٹیمائزیشن مکمل ہو گئی</string>
+    <string name="rom_dexopt_cancelled_title">ایپ آپٹیمائزیشن منسوخ کر دی گئی</string>
+    <string name="rom_dexopt_done_text">آپٹیمائز کی گئی ایپس: <xliff:g id="count" example="12">%1$d</xliff:g></string>
+</resources>

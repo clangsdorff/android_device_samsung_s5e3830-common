@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM 設定</string>
+    <string name="rom_settings_summary">セキュアなスクリーンショット、サウンドパック、アプリの最適化</string>
+    <string name="rom_settings_ignore_secure_title">保護されたアプリでのスクリーンショットを許可</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE を無視して、すべてのアプリでスクリーンショット、画面録画、キャストを使えるようにします。DRM 動画は黒いままです。</string>
+    <string name="rom_settings_sound_pack_title">サウンドパック</string>
+    <string name="rom_settings_sound_pack_applied">デフォルトの着信音、通知音、アラーム、システム音を変更しました</string>
+    <string name="rom_settings_dexopt_title">今すぐアプリを最適化</string>
+    <string name="rom_settings_dexopt_summary">アイドル時のメンテナンスを待たずに、使用状況プロファイルに基づいてアプリをコンパイルします。進行状況は通知に表示されます。</string>
+    <string name="rom_settings_dexopt_started">アプリの最適化を開始しました</string>
+</resources>

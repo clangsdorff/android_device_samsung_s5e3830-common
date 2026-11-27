@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">إعدادات ROM</string>
+    <string name="rom_settings_summary">لقطات شاشة آمنة، حزمة الأصوات، تحسين التطبيقات</string>
+    <string name="rom_settings_ignore_secure_title">السماح بلقطات الشاشة في التطبيقات الآمنة</string>
+    <string name="rom_settings_ignore_secure_summary">يتم تجاهل FLAG_SECURE لتعمل لقطات الشاشة وتسجيل الشاشة والبث في كل التطبيقات. تبقى فيديوهات DRM سوداء.</string>
+    <string name="rom_settings_sound_pack_title">حزمة الأصوات</string>
+    <string name="rom_settings_sound_pack_applied">تم تغيير نغمة الرنين والإشعارات والمنبّه وأصوات النظام الافتراضية</string>
+    <string name="rom_settings_dexopt_title">حسّن التطبيقات الآن</string>
+    <string name="rom_settings_dexopt_summary">تتم معالجة التطبيقات وفق ملفات استخدامها بدلًا من انتظار فترة الصيانة في وضع الخمول. يظهر التقدم في إشعار.</string>
+    <string name="rom_settings_dexopt_started">بدأ تحسين التطبيقات</string>
+</resources>

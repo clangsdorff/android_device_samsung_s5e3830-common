@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM параметрлері</string>
+    <string name="rom_settings_summary">Қауіпсіз скриншоттар, дыбыс пакеті, қолданбаларды оңтайландыру</string>
+    <string name="rom_settings_ignore_secure_title">Қауіпсіз қолданбаларда скриншотқа рұқсат беру</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE елемейді, сондықтан скриншот, экранды жазу және трансляция кез келген қолданбада жұмыс істейді. DRM бейнелері қара болып қалады.</string>
+    <string name="rom_settings_sound_pack_title">Дыбыс пакеті</string>
+    <string name="rom_settings_sound_pack_applied">Әдепкі рингтон, хабарландыру, оятқыш және жүйе дыбыстары өзгертілді</string>
+    <string name="rom_settings_dexopt_title">Қолданбаларды қазір оңтайландыру</string>
+    <string name="rom_settings_dexopt_summary">Қолданбалар бос тұрғандағы қызмет көрсету терезесін күтпей, пайдалану профильдері бойынша компиляцияланады. Барысы хабарландыруда көрсетіледі.</string>
+    <string name="rom_settings_dexopt_started">Қолданбаларды оңтайландыру басталды</string>
+</resources>

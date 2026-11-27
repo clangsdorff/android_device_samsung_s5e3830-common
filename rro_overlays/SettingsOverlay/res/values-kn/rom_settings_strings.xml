@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="rom_settings_summary">ಸುರಕ್ಷಿತ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳು, ಸೌಂಡ್ ಪ್ಯಾಕ್, ಆ್ಯಪ್ ಆಪ್ಟಿಮೈಸೇಶನ್</string>
+    <string name="rom_settings_ignore_secure_title">ಸುರಕ್ಷಿತ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗೆ ಅನುಮತಿಸಿ</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ಅನ್ನು ನಿರ್ಲಕ್ಷಿಸಲಾಗುತ್ತದೆ, ಇದರಿಂದ ಪ್ರತಿ ಆ್ಯಪ್‌ನಲ್ಲಿ ಸ್ಕ್ರೀನ್‌ಶಾಟ್, ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಮತ್ತು ಕ್ಯಾಸ್ಟ್ ಕೆಲಸ ಮಾಡುತ್ತವೆ. DRM ವೀಡಿಯೊ ಕಪ್ಪಾಗಿಯೇ ಉಳಿಯುತ್ತದೆ.</string>
+    <string name="rom_settings_sound_pack_title">ಸೌಂಡ್ ಪ್ಯಾಕ್</string>
+    <string name="rom_settings_sound_pack_applied">ಡೀಫಾಲ್ಟ್ ರಿಂಗ್‌ಟೋನ್, ಅಧಿಸೂಚನೆ, ಅಲಾರಾಂ ಮತ್ತು ಸಿಸ್ಟಂ ಧ್ವನಿಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+    <string name="rom_settings_dexopt_title">ಆ್ಯಪ್‌ಗಳನ್ನು ಈಗಲೇ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿ</string>
+    <string name="rom_settings_dexopt_summary">ನಿಷ್ಕ್ರಿಯ ನಿರ್ವಹಣೆ ವಿಂಡೋಗಾಗಿ ಕಾಯದೆ ಆ್ಯಪ್‌ಗಳನ್ನು ಬಳಕೆಯ ಪ್ರೊಫೈಲ್‌ಗಳ ಪ್ರಕಾರ ಕಂಪೈಲ್ ಮಾಡಲಾಗುತ್ತದೆ. ಪ್ರಗತಿಯನ್ನು ಅಧಿಸೂಚನೆಯಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ.</string>
+    <string name="rom_settings_dexopt_started">ಆ್ಯಪ್ ಆಪ್ಟಿಮೈಸೇಶನ್ ಪ್ರಾರಂಭವಾಗಿದೆ</string>
+</resources>

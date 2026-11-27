@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM sozlamalari</string>
+    <string name="rom_settings_summary">Xavfsiz skrinshotlar, ovozlar toʻplami, ilovalarni optimallashtirish</string>
+    <string name="rom_settings_ignore_secure_title">Xavfsiz ilovalarda skrinshotga ruxsat berish</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE eʼtiborga olinmaydi, shunda skrinshot, ekranni yozib olish va translatsiya har bir ilovada ishlaydi. DRM videolar qora boʻlib qoladi.</string>
+    <string name="rom_settings_sound_pack_title">Ovozlar toʻplami</string>
+    <string name="rom_settings_sound_pack_applied">Standart rington, bildirishnoma, signal va tizim ovozlari oʻzgartirildi</string>
+    <string name="rom_settings_dexopt_title">Ilovalarni hoziroq optimallashtirish</string>
+    <string name="rom_settings_dexopt_summary">Ilovalar boʻsh turgandagi xizmat oynasini kutmasdan, foydalanish profillari boʻyicha kompilyatsiya qilinadi. Jarayon bildirishnomada koʻrsatiladi.</string>
+    <string name="rom_settings_dexopt_started">Ilovalarni optimallashtirish boshlandi</string>
+</resources>

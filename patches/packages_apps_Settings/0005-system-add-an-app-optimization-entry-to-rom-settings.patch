@@ -1,7 +1,7 @@
 From 7959ad15fc1cc0e2ec1b2a17658d0a22b6bf1acd Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Tue, 17 Nov 2026 00:48:02 +0300
-Subject: [PATCH 5/10] system: add an app optimization entry to rom settings
+Subject: [PATCH 5/7] system: add an app optimization entry to rom settings
 
 Background dexopt waits for the device to be idle and charging, which
 some users rarely hit, so apps keep running on verify or old profiles.

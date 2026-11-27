@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM settings</string>
+    <string name="rom_settings_summary">Secure screenshots, sound pack, app optimisation</string>
+    <string name="rom_settings_ignore_secure_title">Allow screenshots in secure apps</string>
+    <string name="rom_settings_ignore_secure_summary">Ignore FLAG_SECURE so screenshots, screen recording and casting work in every app. DRM video stays black.</string>
+    <string name="rom_settings_sound_pack_title">Sound pack</string>
+    <string name="rom_settings_sound_pack_applied">Default ringtone, notification, alarm and system sounds changed</string>
+    <string name="rom_settings_dexopt_title">Optimise apps now</string>
+    <string name="rom_settings_dexopt_summary">Compile apps with their usage profiles instead of waiting for the idle maintenance window. Progress is shown in a notification.</string>
+    <string name="rom_settings_dexopt_started">App optimisation started</string>
+</resources>

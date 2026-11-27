@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Nastavení ROM</string>
+    <string name="rom_settings_summary">Zabezpečené snímky obrazovky, zvukový balíček, optimalizace aplikací</string>
+    <string name="rom_settings_ignore_secure_title">Povolit snímky obrazovky v zabezpečených aplikacích</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE se ignoruje, takže snímky obrazovky, záznam obrazovky a odesílání obsahu fungují v každé aplikaci. Video s DRM zůstane černé.</string>
+    <string name="rom_settings_sound_pack_title">Zvukový balíček</string>
+    <string name="rom_settings_sound_pack_applied">Výchozí vyzvánění, oznámení, budík a systémové zvuky byly změněny</string>
+    <string name="rom_settings_dexopt_title">Optimalizovat aplikace hned</string>
+    <string name="rom_settings_dexopt_summary">Aplikace se zkompilují podle profilů používání, aniž by se čekalo na okno údržby v nečinnosti. Průběh se zobrazuje v oznámení.</string>
+    <string name="rom_settings_dexopt_started">Optimalizace aplikací byla zahájena</string>
+</resources>

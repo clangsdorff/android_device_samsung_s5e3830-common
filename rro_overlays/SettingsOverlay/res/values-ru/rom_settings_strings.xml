@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Настройки ROM</string>
+    <string name="rom_settings_summary">Защищённые скриншоты, звуковой пакет, оптимизация приложений</string>
+    <string name="rom_settings_ignore_secure_title">Разрешить скриншоты в защищённых приложениях</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE игнорируется, поэтому скриншоты, запись экрана и трансляция работают в любом приложении. Видео с DRM остаётся чёрным.</string>
+    <string name="rom_settings_sound_pack_title">Звуковой пакет</string>
+    <string name="rom_settings_sound_pack_applied">Мелодия звонка, звук уведомлений, будильник и системные звуки по умолчанию изменены</string>
+    <string name="rom_settings_dexopt_title">Оптимизировать приложения сейчас</string>
+    <string name="rom_settings_dexopt_summary">Приложения компилируются по профилям использования, не дожидаясь окна обслуживания в режиме простоя. Ход выполнения виден в уведомлении.</string>
+    <string name="rom_settings_dexopt_started">Оптимизация приложений начата</string>
+</resources>

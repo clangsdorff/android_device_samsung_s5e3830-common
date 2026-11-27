@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Langsdorff
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="rom_dexopt_running_title">Inaboresha programu</string>
+    <string name="rom_dexopt_running_text">Programu zinaweza kuwa polepole hadi hili likamilike</string>
+    <string name="rom_dexopt_done_title">Uboreshaji wa programu umekamilika</string>
+    <string name="rom_dexopt_cancelled_title">Uboreshaji wa programu umeghairiwa</string>
+    <string name="rom_dexopt_done_text">Programu zilizoboreshwa: <xliff:g id="count" example="12">%1$d</xliff:g></string>
+</resources>

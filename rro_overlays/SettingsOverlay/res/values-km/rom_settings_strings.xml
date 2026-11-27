@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ការកំណត់ ROM</string>
+    <string name="rom_settings_summary">រូបថតអេក្រង់សុវត្ថិភាព កញ្ចប់សំឡេង ការបង្កើនប្រសិទ្ធភាពកម្មវិធី</string>
+    <string name="rom_settings_ignore_secure_title">អនុញ្ញាតរូបថតអេក្រង់ក្នុងកម្មវិធីសុវត្ថិភាព</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ត្រូវបានមិនអើពើ ដើម្បីឱ្យរូបថតអេក្រង់ ការថតអេក្រង់ និងការភ្ជាប់ចាក់ដំណើរការនៅគ្រប់កម្មវិធី។ វីដេអូ DRM នៅតែខ្មៅ។</string>
+    <string name="rom_settings_sound_pack_title">កញ្ចប់សំឡេង</string>
+    <string name="rom_settings_sound_pack_applied">សំឡេងរោទ៍ ការជូនដំណឹង ម៉ោងរោទ៍ និងសំឡេងប្រព័ន្ធលំនាំដើមត្រូវបានផ្លាស់ប្ដូរ</string>
+    <string name="rom_settings_dexopt_title">បង្កើនប្រសិទ្ធភាពកម្មវិធីឥឡូវនេះ</string>
+    <string name="rom_settings_dexopt_summary">កម្មវិធីត្រូវបានចងក្រងតាមប្រវត្តិរូបប្រើប្រាស់របស់វា ដោយមិនចាំបង្អួចថែទាំពេលទំនេរ។ វឌ្ឍនភាពបង្ហាញក្នុងការជូនដំណឹង។</string>
+    <string name="rom_settings_dexopt_started">ការបង្កើនប្រសិទ្ធភាពកម្មវិធីបានចាប់ផ្ដើម</string>
+</resources>

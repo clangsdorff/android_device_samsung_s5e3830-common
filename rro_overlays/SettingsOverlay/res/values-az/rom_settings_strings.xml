@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ayarları</string>
+    <string name="rom_settings_summary">Təhlükəsiz ekran görüntüləri, səs paketi, tətbiq optimallaşdırması</string>
+    <string name="rom_settings_ignore_secure_title">Təhlükəsiz tətbiqlərdə ekran görüntüsünə icazə ver</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE nəzərə alınmır, beləliklə ekran görüntüsü, ekran qeydi və yayım hər tətbiqdə işləyir. DRM videolar qara qalır.</string>
+    <string name="rom_settings_sound_pack_title">Səs paketi</string>
+    <string name="rom_settings_sound_pack_applied">Defolt zəng, bildiriş, siqnal və sistem səsləri dəyişdirildi</string>
+    <string name="rom_settings_dexopt_title">Tətbiqləri indi optimallaşdır</string>
+    <string name="rom_settings_dexopt_summary">Tətbiqlər boş vaxt texniki xidmət pəncərəsini gözləmədən istifadə profillərinə görə tərtib edilir. Gedişat bildirişdə göstərilir.</string>
+    <string name="rom_settings_dexopt_started">Tətbiq optimallaşdırması başladı</string>
+</resources>

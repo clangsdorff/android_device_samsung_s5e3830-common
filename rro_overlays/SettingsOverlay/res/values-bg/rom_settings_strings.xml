@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Настройки на ROM</string>
+    <string name="rom_settings_summary">Защитени екранни снимки, звуков пакет, оптимизиране на приложенията</string>
+    <string name="rom_settings_ignore_secure_title">Разрешаване на екранни снимки в защитени приложения</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE се игнорира, така че екранните снимки, записът на екрана и предаването работят във всяко приложение. DRM видеото остава черно.</string>
+    <string name="rom_settings_sound_pack_title">Звуков пакет</string>
+    <string name="rom_settings_sound_pack_applied">Мелодията, звукът за известия, будилникът и системните звуци по подразбиране са променени</string>
+    <string name="rom_settings_dexopt_title">Оптимизиране на приложенията сега</string>
+    <string name="rom_settings_dexopt_summary">Приложенията се компилират според профилите им на използване, без да се чака прозорецът за поддръжка в неактивно състояние. Напредъкът се показва в известие.</string>
+    <string name="rom_settings_dexopt_started">Оптимизирането на приложенията започна</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM සැකසුම්</string>
+    <string name="rom_settings_summary">ආරක්ෂිත තිර රූ, ශබ්ද පැකේජය, යෙදුම් ප්‍රශස්තකරණය</string>
+    <string name="rom_settings_ignore_secure_title">ආරක්ෂිත යෙදුම්වල තිර රූ ගැනීමට ඉඩ දෙන්න</string>
+    <string name="rom_settings_ignore_secure_summary">සෑම යෙදුමකම තිර රූ, තිර පටිගත කිරීම සහ විකාශය ක්‍රියා කිරීමට FLAG_SECURE නොසලකා හරිනු ලැබේ. DRM වීඩියෝ කළු පාටින්ම පවතී.</string>
+    <string name="rom_settings_sound_pack_title">ශබ්ද පැකේජය</string>
+    <string name="rom_settings_sound_pack_applied">පෙරනිමි රිංටෝනය, දැනුම්දීම, එලාම් සහ පද්ධති ශබ්ද වෙනස් කරන ලදි</string>
+    <string name="rom_settings_dexopt_title">යෙදුම් දැන් ප්‍රශස්ත කරන්න</string>
+    <string name="rom_settings_dexopt_summary">අක්‍රිය නඩත්තු කවුළුව එනතුරු බලා නොසිට යෙදුම් ඒවායේ භාවිත පැතිකඩ අනුව සම්පාදනය කෙරේ. ප්‍රගතිය දැනුම්දීමක පෙන්වයි.</string>
+    <string name="rom_settings_dexopt_started">යෙදුම් ප්‍රශස්තකරණය ආරම්භ විය</string>
+</resources>

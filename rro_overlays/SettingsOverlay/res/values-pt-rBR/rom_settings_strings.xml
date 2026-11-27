@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Configurações de ROM</string>
+    <string name="rom_settings_summary">Capturas de tela seguras, pacote de sons, otimização de apps</string>
+    <string name="rom_settings_ignore_secure_title">Permitir capturas de tela em apps seguros</string>
+    <string name="rom_settings_ignore_secure_summary">O FLAG_SECURE é ignorado para que capturas de tela, gravação de tela e transmissão funcionem em todos os apps. Vídeos com DRM continuam pretos.</string>
+    <string name="rom_settings_sound_pack_title">Pacote de sons</string>
+    <string name="rom_settings_sound_pack_applied">Toque, notificação, alarme e sons do sistema padrão alterados</string>
+    <string name="rom_settings_dexopt_title">Otimizar apps agora</string>
+    <string name="rom_settings_dexopt_summary">Os apps são compilados conforme seus perfis de uso, sem esperar a janela de manutenção em inatividade. O progresso aparece em uma notificação.</string>
+    <string name="rom_settings_dexopt_started">Otimização de apps iniciada</string>
+</resources>

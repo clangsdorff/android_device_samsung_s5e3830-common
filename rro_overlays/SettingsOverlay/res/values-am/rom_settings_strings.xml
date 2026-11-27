@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ቅንብሮች</string>
+    <string name="rom_settings_summary">ደህንነቱ የተጠበቀ ቅጽበታዊ ገጽ እይታዎች፣ የድምፅ ጥቅል፣ የመተግበሪያ ማሻሻያ</string>
+    <string name="rom_settings_ignore_secure_title">በደህንነቱ የተጠበቁ መተግበሪያዎች ውስጥ ቅጽበታዊ ገጽ እይታዎችን ፍቀድ</string>
+    <string name="rom_settings_ignore_secure_summary">ቅጽበታዊ ገጽ እይታዎች፣ የማያ ገጽ ቀረጻ እና ማሰራጨት በሁሉም መተግበሪያ እንዲሰሩ FLAG_SECURE ችላ ይባላል። የDRM ቪዲዮ ጥቁር ሆኖ ይቆያል።</string>
+    <string name="rom_settings_sound_pack_title">የድምፅ ጥቅል</string>
+    <string name="rom_settings_sound_pack_applied">ነባሪ የስልክ ጥሪ፣ ማሳወቂያ፣ ማንቂያ እና የስርዓት ድምፆች ተቀይረዋል</string>
+    <string name="rom_settings_dexopt_title">መተግበሪያዎችን አሁን አሻሽል</string>
+    <string name="rom_settings_dexopt_summary">የስራ ፈት ጥገና ጊዜን ከመጠበቅ ይልቅ መተግበሪያዎች በአጠቃቀም መገለጫዎቻቸው መሠረት ይቀየሳሉ። እድገቱ በማሳወቂያ ውስጥ ይታያል።</string>
+    <string name="rom_settings_dexopt_started">የመተግበሪያ ማሻሻያ ተጀምሯል</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM postavke</string>
+    <string name="rom_settings_summary">Sigurni snimci zaslona, paket zvukova, optimizacija aplikacija</string>
+    <string name="rom_settings_ignore_secure_title">Dopusti snimke zaslona u sigurnim aplikacijama</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE se zanemaruje pa snimke zaslona, snimanje zaslona i emitiranje rade u svakoj aplikaciji. DRM videozapisi ostaju crni.</string>
+    <string name="rom_settings_sound_pack_title">Paket zvukova</string>
+    <string name="rom_settings_sound_pack_applied">Zadani zvukovi melodije zvona, obavijesti, alarma i sustava su promijenjeni</string>
+    <string name="rom_settings_dexopt_title">Optimiziraj aplikacije sada</string>
+    <string name="rom_settings_dexopt_summary">Aplikacije se kompajliraju prema profilima korištenja umjesto da čekaju prozor za održavanje u mirovanju. Napredak se prikazuje u obavijesti.</string>
+    <string name="rom_settings_dexopt_started">Optimizacija aplikacija je započela</string>
+</resources>

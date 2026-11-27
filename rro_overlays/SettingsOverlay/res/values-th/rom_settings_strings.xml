@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">การตั้งค่า ROM</string>
+    <string name="rom_settings_summary">ภาพหน้าจอที่ปลอดภัย, ชุดเสียง, การเพิ่มประสิทธิภาพแอป</string>
+    <string name="rom_settings_ignore_secure_title">อนุญาตภาพหน้าจอในแอปที่ปลอดภัย</string>
+    <string name="rom_settings_ignore_secure_summary">ข้าม FLAG_SECURE เพื่อให้ภาพหน้าจอ การบันทึกหน้าจอ และการแคสต์ใช้งานได้ในทุกแอป วิดีโอ DRM ยังคงเป็นสีดำ</string>
+    <string name="rom_settings_sound_pack_title">ชุดเสียง</string>
+    <string name="rom_settings_sound_pack_applied">เปลี่ยนเสียงเรียกเข้า เสียงแจ้งเตือน เสียงปลุก และเสียงระบบเริ่มต้นแล้ว</string>
+    <string name="rom_settings_dexopt_title">เพิ่มประสิทธิภาพแอปตอนนี้</string>
+    <string name="rom_settings_dexopt_summary">คอมไพล์แอปตามโปรไฟล์การใช้งานโดยไม่ต้องรอช่วงบำรุงรักษาตอนว่าง ความคืบหน้าจะแสดงในการแจ้งเตือน</string>
+    <string name="rom_settings_dexopt_started">เริ่มเพิ่มประสิทธิภาพแอปแล้ว</string>
+</resources>

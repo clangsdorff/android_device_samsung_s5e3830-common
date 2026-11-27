@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="double_tap_power_torch_action_title">چراغ‌قوه</string>
+    <string name="double_tap_power_torch_action_summary">روشن/خاموش کردن چراغ‌قوه</string>
+    <string name="double_tap_power_app_action_title">باز کردن برنامه</string>
+    <string name="double_tap_power_app_action_summary">باز کردن <xliff:g id="app_name" example="Maps">%1$s</xliff:g></string>
+    <string name="double_tap_power_app_action_none">برنامه‌ای انتخاب نشده است</string>
+    <string name="double_tap_power_app_action_picker_title">انتخاب برنامه</string>
+</resources>

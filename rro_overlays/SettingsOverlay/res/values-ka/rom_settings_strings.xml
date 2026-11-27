@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-ის პარამეტრები</string>
+    <string name="rom_settings_summary">დაცული ეკრანის ანაბეჭდები, ხმების პაკეტი, აპების ოპტიმიზაცია</string>
+    <string name="rom_settings_ignore_secure_title">ეკრანის ანაბეჭდების დაშვება დაცულ აპებში</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE იგნორირებულია, რათა ეკრანის ანაბეჭდები, ეკრანის ჩაწერა და გადაცემა ნებისმიერ აპში მუშაობდეს. DRM ვიდეო შავი რჩება.</string>
+    <string name="rom_settings_sound_pack_title">ხმების პაკეტი</string>
+    <string name="rom_settings_sound_pack_applied">ნაგულისხმევი ზარის, შეტყობინების, მაღვიძარას და სისტემის ხმები შეიცვალა</string>
+    <string name="rom_settings_dexopt_title">აპების ოპტიმიზაცია ახლავე</string>
+    <string name="rom_settings_dexopt_summary">აპები კომპილირდება გამოყენების პროფილების მიხედვით და არ ელოდება უქმ რეჟიმში მოვლის ფანჯარას. პროგრესი ნაჩვენებია შეტყობინებაში.</string>
+    <string name="rom_settings_dexopt_started">აპების ოპტიმიზაცია დაიწყო</string>
+</resources>

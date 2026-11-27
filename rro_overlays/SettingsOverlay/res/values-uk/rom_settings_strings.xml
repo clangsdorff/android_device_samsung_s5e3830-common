@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Налаштування ROM</string>
+    <string name="rom_settings_summary">Захищені знімки екрана, звуковий пакет, оптимізація додатків</string>
+    <string name="rom_settings_ignore_secure_title">Дозволити знімки екрана в захищених додатках</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ігнорується, тому знімки екрана, запис екрана й трансляція працюють у будь-якому додатку. Відео з DRM залишається чорним.</string>
+    <string name="rom_settings_sound_pack_title">Звуковий пакет</string>
+    <string name="rom_settings_sound_pack_applied">Мелодію дзвінка, звук сповіщень, будильник і системні звуки за умовчанням змінено</string>
+    <string name="rom_settings_dexopt_title">Оптимізувати додатки зараз</string>
+    <string name="rom_settings_dexopt_summary">Додатки компілюються за профілями використання, не чекаючи вікна обслуговування в режимі очікування. Перебіг показано в сповіщенні.</string>
+    <string name="rom_settings_dexopt_started">Оптимізацію додатків розпочато</string>
+</resources>

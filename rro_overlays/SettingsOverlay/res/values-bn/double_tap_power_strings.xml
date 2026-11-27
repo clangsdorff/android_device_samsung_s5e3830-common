@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="double_tap_power_torch_action_title">ফ্ল্যাশলাইট</string>
+    <string name="double_tap_power_torch_action_summary">ফ্ল্যাশলাইট চালু/বন্ধ করুন</string>
+    <string name="double_tap_power_app_action_title">অ্যাপ খুলুন</string>
+    <string name="double_tap_power_app_action_summary"><xliff:g id="app_name" example="Maps">%1$s</xliff:g> খুলুন</string>
+    <string name="double_tap_power_app_action_none">কোনও অ্যাপ বেছে নেওয়া হয়নি</string>
+    <string name="double_tap_power_app_action_picker_title">একটি অ্যাপ বেছে নিন</string>
+</resources>

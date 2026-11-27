@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 Langsdorff
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="rom_dexopt_running_title">Đang tối ưu hóa ứng dụng</string>
+    <string name="rom_dexopt_running_text">Ứng dụng có thể chậm hơn cho đến khi hoàn tất</string>
+    <string name="rom_dexopt_done_title">Đã tối ưu hóa xong ứng dụng</string>
+    <string name="rom_dexopt_cancelled_title">Đã hủy tối ưu hóa ứng dụng</string>
+    <string name="rom_dexopt_done_text">Số ứng dụng đã tối ưu hóa: <xliff:g id="count" example="12">%1$d</xliff:g></string>
+</resources>

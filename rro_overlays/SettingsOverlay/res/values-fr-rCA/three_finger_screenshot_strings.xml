@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="three_finger_screenshot_title">Capture d’écran à trois doigts</string>
+    <string name="three_finger_screenshot_summary">Balayez vers le bas avec trois doigts pour prendre une capture d’écran. Ne fonctionne pas lorsqu’un jeu GameSpace est ouvert.</string>
+</resources>

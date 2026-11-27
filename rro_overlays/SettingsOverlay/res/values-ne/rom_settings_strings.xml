@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM सेटिङ</string>
+    <string name="rom_settings_summary">सुरक्षित स्क्रिनसट, साउन्ड प्याक, एप अप्टिमाइजेसन</string>
+    <string name="rom_settings_ignore_secure_title">सुरक्षित एपहरूमा स्क्रिनसटको अनुमति दिनुहोस्</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE लाई बेवास्ता गरिन्छ, जसले गर्दा हरेक एपमा स्क्रिनसट, स्क्रिन रेकर्डिङ र क्यास्ट काम गर्छन्। DRM भिडियो कालो नै रहन्छ।</string>
+    <string name="rom_settings_sound_pack_title">साउन्ड प्याक</string>
+    <string name="rom_settings_sound_pack_applied">पूर्वनिर्धारित रिङटोन, सूचना, अलार्म र प्रणालीका ध्वनिहरू परिवर्तन गरियो</string>
+    <string name="rom_settings_dexopt_title">एपहरू अहिले नै अप्टिमाइज गर्नुहोस्</string>
+    <string name="rom_settings_dexopt_summary">निष्क्रिय अवस्थाको मर्मतसम्भार विन्डोको प्रतीक्षा नगरी एपहरू तिनीहरूको प्रयोग प्रोफाइलअनुसार कम्पाइल गरिन्छ। प्रगति सूचनामा देखाइन्छ।</string>
+    <string name="rom_settings_dexopt_started">एप अप्टिमाइजेसन सुरु भयो</string>
+</resources>

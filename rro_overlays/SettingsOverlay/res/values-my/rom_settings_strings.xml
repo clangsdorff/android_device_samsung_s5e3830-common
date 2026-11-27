@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM ဆက်တင်များ</string>
+    <string name="rom_settings_summary">လုံခြုံသော ဖန်သားပြင်ဓာတ်ပုံများ၊ အသံအစုံ၊ အက်ပ်ကောင်းမွန်အောင်လုပ်ခြင်း</string>
+    <string name="rom_settings_ignore_secure_title">လုံခြုံသောအက်ပ်များတွင် ဖန်သားပြင်ဓာတ်ပုံရိုက်ခွင့်ပြုရန်</string>
+    <string name="rom_settings_ignore_secure_summary">အက်ပ်တိုင်းတွင် ဖန်သားပြင်ဓာတ်ပုံ၊ ဖန်သားပြင်ရိုက်ကူးခြင်းနှင့် ကာစ်လုပ်ခြင်းတို့ အလုပ်လုပ်စေရန် FLAG_SECURE ကို လျစ်လျူရှုထားသည်။ DRM ဗီဒီယိုများသည် အနက်ရောင်အတိုင်း ဆက်ရှိနေမည်။</string>
+    <string name="rom_settings_sound_pack_title">အသံအစုံ</string>
+    <string name="rom_settings_sound_pack_applied">မူလဖုန်းမြည်သံ၊ အကြောင်းကြားချက်၊ နှိုးစက်နှင့် စနစ်အသံများကို ပြောင်းလိုက်ပြီ</string>
+    <string name="rom_settings_dexopt_title">အက်ပ်များကို ယခုကောင်းမွန်အောင်လုပ်ရန်</string>
+    <string name="rom_settings_dexopt_summary">အလုပ်မလုပ်ချိန် ပြုပြင်ထိန်းသိမ်းမှုအချိန်ကို မစောင့်ဘဲ အက်ပ်များကို အသုံးပြုမှုပရိုဖိုင်အလိုက် ကွန်ပိုင်းလုပ်သည်။ တိုးတက်မှုကို အကြောင်းကြားချက်တွင် ပြသည်။</string>
+    <string name="rom_settings_dexopt_started">အက်ပ်ကောင်းမွန်အောင်လုပ်ခြင်း စတင်ပြီ</string>
+</resources>

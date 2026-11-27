@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM 設定</string>
+    <string name="rom_settings_summary">安全螢幕截圖、音效包、應用程式最佳化</string>
+    <string name="rom_settings_ignore_secure_title">允許在受保護的應用程式中螢幕截圖</string>
+    <string name="rom_settings_ignore_secure_summary">忽略 FLAG_SECURE，讓螢幕截圖、螢幕錄影和投放在所有應用程式中都能使用。DRM 影片仍會是黑畫面。</string>
+    <string name="rom_settings_sound_pack_title">音效包</string>
+    <string name="rom_settings_sound_pack_applied">已變更預設鈴聲、通知、鬧鐘和系統音效</string>
+    <string name="rom_settings_dexopt_title">立即最佳化應用程式</string>
+    <string name="rom_settings_dexopt_summary">依應用程式的使用設定檔進行編譯，不必等待閒置維護時段。進度會顯示在通知中。</string>
+    <string name="rom_settings_dexopt_started">已開始最佳化應用程式</string>
+</resources>

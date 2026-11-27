@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-ի կարգավորումներ</string>
+    <string name="rom_settings_summary">Անվտանգ էկրանի նկարներ, ձայների փաթեթ, հավելվածների օպտիմալացում</string>
+    <string name="rom_settings_ignore_secure_title">Թույլատրել էկրանի նկարները անվտանգ հավելվածներում</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE-ը անտեսվում է, որպեսզի էկրանի նկարները, էկրանի տեսագրումը և հեռարձակումը աշխատեն ցանկացած հավելվածում։ DRM տեսանյութերը մնում են սև։</string>
+    <string name="rom_settings_sound_pack_title">Ձայների փաթեթ</string>
+    <string name="rom_settings_sound_pack_applied">Զանգի, ծանուցումների, զարթուցիչի և համակարգի ստանդարտ ձայները փոխվել են</string>
+    <string name="rom_settings_dexopt_title">Օպտիմալացնել հավելվածները հիմա</string>
+    <string name="rom_settings_dexopt_summary">Հավելվածները կոմպիլացվում են օգտագործման պրոֆիլներով՝ առանց անգործության ժամանակ սպասարկման պատուհանին սպասելու։ Առաջընթացը ցուցադրվում է ծանուցման մեջ։</string>
+    <string name="rom_settings_dexopt_started">Հավելվածների օպտիմալացումը սկսվեց</string>
+</resources>

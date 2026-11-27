@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Налады ROM</string>
+    <string name="rom_settings_summary">Бяспечныя здымкі экрана, пакет гукаў, аптымізацыя праграм</string>
+    <string name="rom_settings_ignore_secure_title">Дазволіць здымкі экрана ў бяспечных праграмах</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ігнаруецца, таму здымкі экрана, запіс экрана і трансляцыя працуюць у кожнай праграме. Відэа з DRM застаецца чорным.</string>
+    <string name="rom_settings_sound_pack_title">Пакет гукаў</string>
+    <string name="rom_settings_sound_pack_applied">Гукі званка, апавяшчэнняў, будзільніка і сістэмы па змаўчанні зменены</string>
+    <string name="rom_settings_dexopt_title">Аптымізаваць праграмы цяпер</string>
+    <string name="rom_settings_dexopt_summary">Праграмы кампілююцца паводле профіляў выкарыстання, не чакаючы акна абслугоўвання ў рэжыме чакання. Ход выканання паказваецца ў апавяшчэнні.</string>
+    <string name="rom_settings_dexopt_started">Аптымізацыя праграм пачалася</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM सेटिंग</string>
+    <string name="rom_settings_summary">सुरक्षित स्क्रीनशॉट, साउंड पैक, ऐप ऑप्टिमाइज़ेशन</string>
+    <string name="rom_settings_ignore_secure_title">सुरक्षित ऐप में स्क्रीनशॉट की अनुमति दें</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE को अनदेखा किया जाता है, ताकि हर ऐप में स्क्रीनशॉट, स्क्रीन रिकॉर्डिंग और कास्ट काम करें. DRM वीडियो काले ही रहते हैं.</string>
+    <string name="rom_settings_sound_pack_title">साउंड पैक</string>
+    <string name="rom_settings_sound_pack_applied">डिफ़ॉल्ट रिंगटोन, सूचना, अलार्म और सिस्टम की आवाज़ें बदल गईं</string>
+    <string name="rom_settings_dexopt_title">ऐप अभी ऑप्टिमाइज़ करें</string>
+    <string name="rom_settings_dexopt_summary">इस्तेमाल की प्रोफ़ाइल के हिसाब से ऐप कंपाइल किए जाते हैं, निष्क्रिय रखरखाव विंडो का इंतज़ार नहीं किया जाता. प्रगति सूचना में दिखती है.</string>
+    <string name="rom_settings_dexopt_started">ऐप ऑप्टिमाइज़ेशन शुरू हुआ</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-instellings</string>
+    <string name="rom_settings_summary">Veilige skermkiekies, klankpakket, programoptimering</string>
+    <string name="rom_settings_ignore_secure_title">Laat skermkiekies toe in veilige programme</string>
+    <string name="rom_settings_ignore_secure_summary">Ignoreer FLAG_SECURE sodat skermkiekies, skermopname en uitsending in elke program werk. DRM-video bly swart.</string>
+    <string name="rom_settings_sound_pack_title">Klankpakket</string>
+    <string name="rom_settings_sound_pack_applied">Verstek luitoon-, kennisgewing-, wekker- en stelselklanke is verander</string>
+    <string name="rom_settings_dexopt_title">Optimeer programme nou</string>
+    <string name="rom_settings_dexopt_summary">Kompileer programme volgens hul gebruiksprofiele in plaas daarvan om vir die ledige instandhoudingsvenster te wag. Vordering word in \'n kennisgewing gewys.</string>
+    <string name="rom_settings_dexopt_started">Programoptimering het begin</string>
+</resources>

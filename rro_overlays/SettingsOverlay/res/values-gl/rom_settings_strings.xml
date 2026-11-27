@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">Configuración de ROM</string>
+    <string name="rom_settings_summary">Capturas de pantalla seguras, paquete de sons, optimización de aplicacións</string>
+    <string name="rom_settings_ignore_secure_title">Permitir capturas de pantalla en aplicacións seguras</string>
+    <string name="rom_settings_ignore_secure_summary">Ignórase FLAG_SECURE para que as capturas de pantalla, a gravación da pantalla e a emisión funcionen en todas as aplicacións. O vídeo con DRM segue en negro.</string>
+    <string name="rom_settings_sound_pack_title">Paquete de sons</string>
+    <string name="rom_settings_sound_pack_applied">Cambiáronse os sons predeterminados de ton, notificación, alarma e sistema</string>
+    <string name="rom_settings_dexopt_title">Optimizar as aplicacións agora</string>
+    <string name="rom_settings_dexopt_summary">As aplicacións compílanse segundo os seus perfís de uso en lugar de agardar á xanela de mantemento en repouso. O progreso móstrase nunha notificación.</string>
+    <string name="rom_settings_dexopt_started">Iniciouse a optimización de aplicacións</string>
+</resources>

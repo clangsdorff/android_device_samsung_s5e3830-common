@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-innstillinger</string>
+    <string name="rom_settings_summary">Sikre skjermbilder, lydpakke, appoptimalisering</string>
+    <string name="rom_settings_ignore_secure_title">Tillat skjermbilder i sikre apper</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE ignoreres, slik at skjermbilder, skjermopptak og casting fungerer i alle apper. DRM-video forblir svart.</string>
+    <string name="rom_settings_sound_pack_title">Lydpakke</string>
+    <string name="rom_settings_sound_pack_applied">Standard ringetone, varsellyd, alarm og systemlyder er endret</string>
+    <string name="rom_settings_dexopt_title">Optimaliser apper nå</string>
+    <string name="rom_settings_dexopt_summary">Apper kompileres etter bruksprofilene sine i stedet for å vente på vedlikeholdsvinduet i hvilemodus. Fremdriften vises i et varsel.</string>
+    <string name="rom_settings_dexopt_started">Appoptimalisering er startet</string>
+</resources>

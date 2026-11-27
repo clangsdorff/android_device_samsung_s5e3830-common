@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-instellingen</string>
+    <string name="rom_settings_summary">Beveiligde screenshots, geluidspakket, app-optimalisatie</string>
+    <string name="rom_settings_ignore_secure_title">Screenshots toestaan in beveiligde apps</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE wordt genegeerd, zodat screenshots, schermopname en casten in elke app werken. DRM-video blijft zwart.</string>
+    <string name="rom_settings_sound_pack_title">Geluidspakket</string>
+    <string name="rom_settings_sound_pack_applied">Standaard beltoon, meldingsgeluid, wekker en systeemgeluiden gewijzigd</string>
+    <string name="rom_settings_dexopt_title">Apps nu optimaliseren</string>
+    <string name="rom_settings_dexopt_summary">Apps worden gecompileerd op basis van hun gebruiksprofielen in plaats van te wachten op het onderhoudsvenster bij inactiviteit. De voortgang wordt getoond in een melding.</string>
+    <string name="rom_settings_dexopt_started">App-optimalisatie gestart</string>
+</resources>

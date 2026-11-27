@@ -1,7 +1,7 @@
 From bad457e0c10ae0da051d4f118ca9c9d2fc191958 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Mon, 16 Nov 2026 09:31:29 +0000
-Subject: [PATCH 3/10] system: add Play Integrity toggle and keybox settings
+Subject: [PATCH 3/7] system: add Play Integrity toggle and keybox settings
 
 Add a Play Integrity preference screen under System settings to toggle automatic DroidGuard spoofing, trigger an immediate Pixel Canary fingerprint refresh, and load or remove keybox.xml via document picker.
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-ын тохиргоо</string>
+    <string name="rom_settings_summary">Аюулгүй дэлгэцийн агшин, дууны багц, аппын оновчлол</string>
+    <string name="rom_settings_ignore_secure_title">Аюулгүй аппуудад дэлгэцийн агшин авахыг зөвшөөрөх</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE-г үл тооно, ингэснээр дэлгэцийн агшин, дэлгэц бичлэг болон дэлгэц дамжуулалт бүх аппад ажиллана. DRM видео хар хэвээр үлдэнэ.</string>
+    <string name="rom_settings_sound_pack_title">Дууны багц</string>
+    <string name="rom_settings_sound_pack_applied">Үндсэн хонхны ая, мэдэгдэл, сэрүүлэг болон системийн дууг өөрчиллөө</string>
+    <string name="rom_settings_dexopt_title">Аппуудыг одоо оновчлох</string>
+    <string name="rom_settings_dexopt_summary">Идэвхгүй үеийн засвар үйлчилгээний цонхыг хүлээлгүйгээр аппуудыг ашиглалтын профайлаар нь хөрвүүлнэ. Явц мэдэгдэлд харагдана.</string>
+    <string name="rom_settings_dexopt_started">Аппын оновчлол эхэллээ</string>
+</resources>

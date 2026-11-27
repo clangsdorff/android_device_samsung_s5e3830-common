@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM-Einstellungen</string>
+    <string name="rom_settings_summary">Sichere Screenshots, Soundpaket, App-Optimierung</string>
+    <string name="rom_settings_ignore_secure_title">Screenshots in geschützten Apps erlauben</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE wird ignoriert, damit Screenshots, Bildschirmaufnahmen und Übertragung in jeder App funktionieren. DRM-Videos bleiben schwarz.</string>
+    <string name="rom_settings_sound_pack_title">Soundpaket</string>
+    <string name="rom_settings_sound_pack_applied">Standardklingelton, -benachrichtigungston, -wecker und Systemtöne geändert</string>
+    <string name="rom_settings_dexopt_title">Apps jetzt optimieren</string>
+    <string name="rom_settings_dexopt_summary">Apps werden anhand ihrer Nutzungsprofile kompiliert, statt auf das Wartungsfenster im Leerlauf zu warten. Der Fortschritt wird in einer Benachrichtigung angezeigt.</string>
+    <string name="rom_settings_dexopt_started">App-Optimierung gestartet</string>
+</resources>

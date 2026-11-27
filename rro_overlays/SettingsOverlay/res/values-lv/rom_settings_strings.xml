@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM iestatījumi</string>
+    <string name="rom_settings_summary">Drošie ekrānuzņēmumi, skaņu pakotne, lietotņu optimizēšana</string>
+    <string name="rom_settings_ignore_secure_title">Atļaut ekrānuzņēmumus drošās lietotnēs</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE tiek ignorēts, lai ekrānuzņēmumi, ekrāna ierakstīšana un pārraide darbotos visās lietotnēs. DRM video paliek melns.</string>
+    <string name="rom_settings_sound_pack_title">Skaņu pakotne</string>
+    <string name="rom_settings_sound_pack_applied">Noklusējuma zvana, paziņojumu, modinātāja un sistēmas skaņas ir mainītas</string>
+    <string name="rom_settings_dexopt_title">Optimizēt lietotnes tagad</string>
+    <string name="rom_settings_dexopt_summary">Lietotnes tiek kompilētas pēc lietojuma profiliem, negaidot dīkstāves apkopes logu. Norise tiek rādīta paziņojumā.</string>
+    <string name="rom_settings_dexopt_started">Lietotņu optimizēšana sākta</string>
+</resources>

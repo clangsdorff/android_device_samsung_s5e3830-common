@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="rom_settings_title">ROM સેટિંગ</string>
+    <string name="rom_settings_summary">સુરક્ષિત સ્ક્રીનશૉટ, સાઉન્ડ પૅક, ઍપ ઑપ્ટિમાઇઝેશન</string>
+    <string name="rom_settings_ignore_secure_title">સુરક્ષિત ઍપમાં સ્ક્રીનશૉટની મંજૂરી આપો</string>
+    <string name="rom_settings_ignore_secure_summary">FLAG_SECURE અવગણવામાં આવે છે, જેથી દરેક ઍપમાં સ્ક્રીનશૉટ, સ્ક્રીન રેકોર્ડિંગ અને કાસ્ટ કામ કરે. DRM વીડિયો કાળા રહે છે.</string>
+    <string name="rom_settings_sound_pack_title">સાઉન્ડ પૅક</string>
+    <string name="rom_settings_sound_pack_applied">ડિફૉલ્ટ રિંગટોન, નોટિફિકેશન, અલાર્મ અને સિસ્ટમના અવાજો બદલાયા</string>
+    <string name="rom_settings_dexopt_title">ઍપ હમણાં ઑપ્ટિમાઇઝ કરો</string>
+    <string name="rom_settings_dexopt_summary">નિષ્ક્રિય જાળવણી વિન્ડોની રાહ જોવાને બદલે ઍપ તેમની વપરાશ પ્રોફાઇલ મુજબ કમ્પાઇલ થાય છે. પ્રગતિ નોટિફિકેશનમાં બતાવવામાં આવે છે.</string>
+    <string name="rom_settings_dexopt_started">ઍપ ઑપ્ટિમાઇઝેશન શરૂ થયું</string>
+</resources>
