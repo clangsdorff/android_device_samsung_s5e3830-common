@@ -1,7 +1,7 @@
 From 01d142309485e40d2c218574ffc72b122d4a9ba0 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sun, 4 Oct 2026 23:12:38 +0300
-Subject: [PATCH 2/4] camera: expose samsung 60fps video modes
+Subject: [PATCH 2/3] camera: expose samsung 60fps video modes
 
 the samsung hal keeps its 60fps video modes in its own video
 configuration tags, so standard camera apps only see 30fps. expose the

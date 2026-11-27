@@ -1,7 +1,7 @@
 From 01289de6b9224070795660c92d9d0aaeba89f17b Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sat, 7 Nov 2026 14:07:42 +0000
-Subject: [PATCH 3/4] camera: expose samsung aidl auxiliary cameras
+Subject: [PATCH 3/3] camera: expose samsung aidl auxiliary cameras
 
 samsung aidl camera providers only return cameras with id below 20 on
 the standard ICameraProvider::getCameraIdList() call. auxiliary sensors
