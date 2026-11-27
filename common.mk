@@ -319,5 +319,4 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/pixel/power-libperfmgr \
     hardware/google/pixel/thermal \
     hardware/samsung \
-    hardware/samsung_slsi-linaro/exynos/abox \
     hardware/samsung_slsi-linaro/exynos/cpboot_v3
