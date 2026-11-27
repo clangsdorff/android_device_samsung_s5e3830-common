@@ -166,7 +166,7 @@
         {
             "PowerHint": "INTERACTION",
             "Node": "MemFreq",
-            "Duration": 1000,
+            "Duration": 2000,
             "Value": "1539000"
         },
         {
@@ -178,8 +178,8 @@
         {
             "PowerHint": "INTERACTION",
             "Node": "GPUMinFreq",
-            "Duration": 1000,
-            "Value": "598000"
+            "Duration": 1500,
+            "Value": "754000"
         },
         {
             "PowerHint": "LAUNCH",
@@ -216,6 +216,12 @@
             "Node": "GPUMinFreq",
             "Duration": 1500,
             "Value": "754000"
+        },
+        {
+            "PowerHint": "LAUNCH",
+            "Node": "EmsTuneReqMode",
+            "Duration": 3000,
+            "Value": "2"
         },
         {
             "PowerHint": "CAMERA_LAUNCH",
