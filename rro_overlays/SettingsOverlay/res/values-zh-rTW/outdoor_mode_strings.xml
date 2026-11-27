@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">戶外模式</string>
-    <string name="outdoor_mode_summary">調亮螢幕以便於戶外檢視。</string>
-</resources>

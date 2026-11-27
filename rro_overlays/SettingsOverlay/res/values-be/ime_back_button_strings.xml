@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Паказваць клавішу хавання клавіятуры"</string>
-    <string name="ime_back_button_in_navbar_summary">"Паказваць кнопку хавання клавіятуры на панэлі навігацыі, калі выбрана поле ўводу"</string>
-</resources>

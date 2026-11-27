@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Mostra il tasto per nascondere la tastiera"</string>
-    <string name="ime_back_button_in_navbar_summary">"Mostra il tasto per nascondere la tastiera nella barra di navigazione quando viene selezionato un campo di immissione"</string>
-</resources>

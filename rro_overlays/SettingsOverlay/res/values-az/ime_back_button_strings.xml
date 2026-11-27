@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Klaviaturanı gizlətmə açarını göstərin"</string>
-    <string name="ime_back_button_in_navbar_summary">"Daxiletmə sahəsi seçildikdə klaviaturanı gizlətmə düyməsini naviqasiya panelində göstərin"</string>
-</resources>

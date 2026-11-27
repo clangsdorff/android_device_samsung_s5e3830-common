@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">အပြင်ဘက် အနေအထား</string>
-    <string name="outdoor_mode_summary">ပြင်ပတွင် ကြည့်ရှုရန်အတွက် ဖန်သားပြင်ကို ပို၍လင်းနေအောင်ပြုလုပ်ပါ။</string>
-</resources>

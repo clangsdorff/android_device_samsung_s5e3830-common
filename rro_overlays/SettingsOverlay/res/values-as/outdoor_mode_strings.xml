@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">বৰ্হিভাগ ম\'ড</string>
-    <string name="outdoor_mode_summary">বৰ্হিভাগ দৰ্শনৰ বাবে স্ক্ৰীণখন উজ্জ্বল কৰক।</string>
-</resources>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Button zum Ausblenden der Tastatur anzeigen"</string>
-    <string name="ime_back_button_in_navbar_summary">"Button zum Ausblenden der Tastatur in der Navigationsleiste anzeigen, wenn ein Eingabefeld ausgewählt ist"</string>
-</resources>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"கீபோர்டை மறைக்கும் பட்டனைக் காட்டு"</string>
-    <string name="ime_back_button_in_navbar_summary">"உள்ளீட்டுப் புலம் தேர்ந்தெடுக்கப்படும்போது வழிசெலுத்தல் பட்டியில் கீபோர்டை மறைக்கும் பட்டனைக் காட்டும்"</string>
-</resources>

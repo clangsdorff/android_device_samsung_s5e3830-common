@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Prikaz gumba za skrivanje tipkovnice"</string>
-    <string name="ime_back_button_in_navbar_summary">"Prikaz gumba za skrivanje tipkovnice v vrstici za krmarjenje, ko je izbrano polje za vnos"</string>
-</resources>

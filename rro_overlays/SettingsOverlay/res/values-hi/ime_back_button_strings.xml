@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"कीबोर्ड छिपाने का बटन दिखाएं"</string>
-    <string name="ime_back_button_in_navbar_summary">"इनपुट फ़ील्ड चुने जाने पर, नेविगेशन बार में कीबोर्ड छिपाने का बटन दिखाएं"</string>
-</resources>

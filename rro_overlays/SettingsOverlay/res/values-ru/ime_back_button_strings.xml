@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Показывать кнопку скрытия клавиатуры"</string>
-    <string name="ime_back_button_in_navbar_summary">"Показывать кнопку скрытия клавиатуры на панели навигации, когда выбрано поле ввода"</string>
-</resources>

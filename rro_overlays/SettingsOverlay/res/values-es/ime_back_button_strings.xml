@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Mostrar la tecla para ocultar el teclado"</string>
-    <string name="ime_back_button_in_navbar_summary">"Mostrar el botón para ocultar el teclado en la barra de navegación cuando se seleccione un campo de entrada"</string>
-</resources>

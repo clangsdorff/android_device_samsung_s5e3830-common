@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Tunjukkan kekunci sembunyikan papan kekunci"</string>
-    <string name="ime_back_button_in_navbar_summary">"Tunjukkan butang sembunyikan papan kekunci dalam bar navigasi, apabila medan input dipilih"</string>
-</resources>

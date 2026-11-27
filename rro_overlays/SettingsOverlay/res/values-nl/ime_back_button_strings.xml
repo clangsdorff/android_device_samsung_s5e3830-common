@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"De toets voor het verbergen van het toetsenbord tonen"</string>
-    <string name="ime_back_button_in_navbar_summary">"De knop voor het verbergen van het toetsenbord tonen in de navigatiebalk als een invoerveld is geselecteerd"</string>
-</resources>

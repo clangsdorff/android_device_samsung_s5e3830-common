@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Ցույց տալ ստեղնաշարը թաքցնելու ստեղնը"</string>
-    <string name="ime_back_button_in_navbar_summary">"Ցույց տալ ստեղնաշարը թաքցնելու կոճակը նավիգացիայի գոտում, երբ մուտքագրման դաշտ է ընտրված"</string>
-</resources>

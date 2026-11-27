@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Prikaži taster za skrivanje tastature"</string>
-    <string name="ime_back_button_in_navbar_summary">"Prikaži dugme za skrivanje tastature na traci za navigaciju kada je izabrano polje za unos"</string>
-</resources>

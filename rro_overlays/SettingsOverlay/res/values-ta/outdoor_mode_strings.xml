@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">வெளியரங்க முறை</string>
-    <string name="outdoor_mode_summary">வெளிப்புறங்களில் பார்ப்பதற்கு திரையை வெளிச்சமாக்கவும்.</string>
-</resources>

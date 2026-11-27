@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"Show the hide keyboard key"</string>
-    <string name="ime_back_button_in_navbar_summary">"Show the button that hides the keyboard in the navigation bar, when an input field is selected"</string>
-</resources>

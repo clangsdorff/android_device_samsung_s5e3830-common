@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">പുറംവേദി മോഡ്</string>
-    <string name="outdoor_mode_summary">പുറംവേദിയിലെ കാഴ്ചക്കായി സ്ക്രീൻ തെളിച്ചം വർദ്ധിപ്പിക്കുക.</string>
-</resources>

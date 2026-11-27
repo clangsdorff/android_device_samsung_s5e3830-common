@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ime_back_button_in_navbar_title">"కీబోర్డ్‌ను దాచే కీని చూపండి"</string>
-    <string name="ime_back_button_in_navbar_summary">"ఇన్‌పుట్ ఫీల్డ్‌ను ఎంచుకున్నప్పుడు నావిగేషన్ బార్‌లో కీబోర్డ్‌ను దాచే బటన్‌ను చూపండి"</string>
-</resources>

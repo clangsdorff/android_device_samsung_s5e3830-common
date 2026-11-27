@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    SPDX-FileCopyrightText: 2026 Langsdorff
-    SPDX-License-Identifier: Apache-2.0
--->
-<resources>
-    <string name="outdoor_mode_title">خارجی موڈ</string>
-    <string name="outdoor_mode_summary">خارج میں دیکھنے کے لیے اسکرین چمکدار بنائیں۔</string>
-</resources>
