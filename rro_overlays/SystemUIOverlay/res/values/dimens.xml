@@ -8,4 +8,6 @@
     <dimen name="status_bar_padding_start">0px</dimen>
     <dimen name="status_bar_padding_end">0px</dimen>
     <dimen name="status_bar_clock_starting_padding">0px</dimen>
+    <dimen name="qs_panel_padding">70px</dimen>
+    <dimen name="large_screen_shade_header_left_padding">70px</dimen>
 </resources>
