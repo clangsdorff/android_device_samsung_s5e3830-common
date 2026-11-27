@@ -44,9 +44,6 @@
   <!-- GApps -->
   <project name="vendor_gapps" path="vendor/gapps" remote="gitlab-mindthegapps" revision="cinnamonbun" clone-depth="1" />
 
-  <!-- GameSpace -->
-  <project name="android_packages_apps_GameSpace" path="packages/apps/GameSpace" remote="langsdorff" revision="15.0" clone-depth="1" />
-
   <!-- Unused AOSP kernel/qemu prebuilts (6.6, 6.12, trusty/6.12 kept for Virtualization/trusty Android.bp) -->
   <remove-project name="kernel/prebuilts/6.1/arm64" />
   <remove-project name="kernel/prebuilts/6.1/x86-64" />

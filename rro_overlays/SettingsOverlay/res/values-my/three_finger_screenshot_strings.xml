@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">လက်သုံးချောင်းဖြင့် ဖန်သားပြင်ဓာတ်ပုံ</string>
-    <string name="three_finger_screenshot_summary">ဖန်သားပြင်ဓာတ်ပုံရိုက်ရန် လက်သုံးချောင်းဖြင့် အောက်သို့ ပွတ်ဆွဲပါ။ GameSpace ဂိမ်း ဖွင့်ထားစဉ် အလုပ်မလုပ်ပါ။</string>
+    <string name="three_finger_screenshot_summary">ဖန်သားပြင်ဓာတ်ပုံရိုက်ရန် လက်သုံးချောင်းဖြင့် အောက်သို့ ပွတ်ဆွဲပါ။</string>
 </resources>

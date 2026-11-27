@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">Screenshot mit drei Fingern</string>
-    <string name="three_finger_screenshot_summary">Mit drei Fingern nach unten wischen, um einen Screenshot aufzunehmen. Funktioniert nicht, während ein GameSpace-Spiel geöffnet ist.</string>
+    <string name="three_finger_screenshot_summary">Mit drei Fingern nach unten wischen, um einen Screenshot aufzunehmen.</string>
 </resources>

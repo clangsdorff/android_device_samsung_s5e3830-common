@@ -1,7 +1,7 @@
 From b088d4fa57553eae88708e23b5385c1d6ff171dd Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Mon, 16 Nov 2026 09:31:23 +0000
-Subject: [PATCH 8/17] pif: auto-fetch Pixel Canary identity for DroidGuard
+Subject: [PATCH 8/14] pif: auto-fetch Pixel Canary identity for DroidGuard
 
 Fetch and cache the latest Pixel Canary fingerprint with first_api_level <= 35 from official Google endpoints in system_server, apply it exclusively inside com.google.android.gms.unstable via Unsafe Build writes and bionic process-local overrides, and expose Settings management methods on IActivityManager.
 

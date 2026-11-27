@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">Posnetek zaslona s tremi prsti</string>
-    <string name="three_finger_screenshot_summary">Povlecite s tremi prsti navzdol, da naredite posnetek zaslona. Ne deluje, ko je odprta igra v GameSpaceu.</string>
+    <string name="three_finger_screenshot_summary">Povlecite s tremi prsti navzdol, da naredite posnetek zaslona.</string>
 </resources>

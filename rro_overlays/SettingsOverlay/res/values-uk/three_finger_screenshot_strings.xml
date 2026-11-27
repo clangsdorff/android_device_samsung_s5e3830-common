@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">Знімок екрана трьома пальцями</string>
-    <string name="three_finger_screenshot_summary">Проведіть трьома пальцями вниз, щоб зробити знімок екрана. Не працює, поки відкрито гру в GameSpace.</string>
+    <string name="three_finger_screenshot_summary">Проведіть трьома пальцями вниз, щоб зробити знімок екрана.</string>
 </resources>

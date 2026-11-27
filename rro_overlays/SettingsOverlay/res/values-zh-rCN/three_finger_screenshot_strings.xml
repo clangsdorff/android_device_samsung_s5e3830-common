@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">三指截屏</string>
-    <string name="three_finger_screenshot_summary">用三根手指向下滑动即可截屏。打开 GameSpace 游戏时无法使用。</string>
+    <string name="three_finger_screenshot_summary">用三根手指向下滑动即可截屏。</string>
 </resources>

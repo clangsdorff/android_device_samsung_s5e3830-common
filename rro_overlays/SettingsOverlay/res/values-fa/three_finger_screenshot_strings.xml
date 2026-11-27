@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">نماگرفت با سه انگشت</string>
-    <string name="three_finger_screenshot_summary">برای گرفتن نماگرفت، با سه انگشت به پایین بکشید. وقتی بازی GameSpace باز است کار نمی‌کند.</string>
+    <string name="three_finger_screenshot_summary">برای گرفتن نماگرفت، با سه انگشت به پایین بکشید.</string>
 </resources>

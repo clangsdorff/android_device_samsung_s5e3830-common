@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="three_finger_screenshot_title">צילום מסך בשלוש אצבעות</string>
-    <string name="three_finger_screenshot_summary">יש להחליק למטה בשלוש אצבעות כדי לצלם מסך. לא פועל כשמשחק של GameSpace פתוח.</string>
+    <string name="three_finger_screenshot_summary">יש להחליק למטה בשלוש אצבעות כדי לצלם מסך.</string>
 </resources>

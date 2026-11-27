@@ -1,7 +1,7 @@
 From d101888bc0fa48bc534c0598e972b5b61e765fb5 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sun, 22 Nov 2026 09:35:06 +0000
-Subject: [PATCH 17/17] policy: take a screenshot on three finger swipe down
+Subject: [PATCH 14/14] policy: take a screenshot on three finger swipe down
 
 add an input monitor based three finger swipe detector from crdroid
 and take a full screenshot when it fires, gated by the
@@ -9,30 +9,20 @@ three_finger_screenshot secure setting.
 
 crdroid pilfers pointers as soon as three fingers land, which cancels
 any three finger touch in apps. pilfer only once the swipe passes the
-threshold instead, and skip detection while a gamespace game is
-focused.
+threshold instead.
 
 Change-Id: I0870316f48748444b5eb0e350d4473c714969a1d
 ---
- .../server/policy/PhoneWindowManager.java     |  37 +++
+ .../server/policy/PhoneWindowManager.java     |  34 +++
  .../policy/ThreeFingersSwipeListener.java     | 309 ++++++++++++++++++
- .../android/server/wm/GameSpaceService.java   |   6 +-
- 3 files changed, 351 insertions(+), 1 deletion(-)
+ 2 files changed, 343 insertions(+)
  create mode 100644 services/core/java/com/android/server/policy/ThreeFingersSwipeListener.java
 
 diff --git a/services/core/java/com/android/server/policy/PhoneWindowManager.java b/services/core/java/com/android/server/policy/PhoneWindowManager.java
 index e17c6ae561d5..19f32eea7805 100644
 --- a/services/core/java/com/android/server/policy/PhoneWindowManager.java
 +++ b/services/core/java/com/android/server/policy/PhoneWindowManager.java
-@@ -270,6 +270,7 @@ import com.android.server.wallpaper.WallpaperManagerInternal;
- import com.android.server.wm.ActivityTaskManagerInternal;
- import com.android.server.wm.DisplayPolicy;
- import com.android.server.wm.DisplayRotation;
-+import com.android.server.wm.GameSpaceService;
- import com.android.server.wm.WindowManagerInternal;
- import com.android.server.wm.WindowManagerInternal.AppTransitionListener;
- 
-@@ -745,6 +746,10 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+@@ -745,6 +745,10 @@ public class PhoneWindowManager implements WindowManagerPolicy {
      private static final int BRIGHTNESS_STEPS = 10;
  
      SettingsObserver mSettingsObserver;
@@ -43,7 +33,7 @@ index e17c6ae561d5..19f32eea7805 100644
      ModifierShortcutManager mModifierShortcutManager;
      /** Currently fully consumed key codes per device */
      private final SparseArray<Set<Integer>> mConsumedKeysForDevice = new SparseArray<>();
-@@ -955,6 +960,9 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+@@ -955,6 +959,9 @@ public class PhoneWindowManager implements WindowManagerPolicy {
              resolver.registerContentObserver(Settings.Secure.getUriFor(
                      Settings.Secure.SYSTEM_NAVIGATION_KEYS_ENABLED), false, this,
                      UserHandle.USER_ALL);
@@ -53,7 +43,7 @@ index e17c6ae561d5..19f32eea7805 100644
              resolver.registerContentObserver(Settings.Global.getUriFor(
                      Settings.Global.POWER_BUTTON_SHORT_PRESS), false, this,
                      UserHandle.USER_ALL);
-@@ -3468,6 +3476,12 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+@@ -3468,6 +3475,12 @@ public class PhoneWindowManager implements WindowManagerPolicy {
                  mRingerToggleChord = VOLUME_HUSH_OFF;
              }
  
@@ -66,7 +56,7 @@ index e17c6ae561d5..19f32eea7805 100644
              mCameraLaunch = LineageSettings.System.getIntForUser(resolver,
                      LineageSettings.System.CAMERA_LAUNCH, 0,
                      UserHandle.USER_CURRENT) == 1;
-@@ -6290,6 +6304,9 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+@@ -6290,6 +6303,9 @@ public class PhoneWindowManager implements WindowManagerPolicy {
          if (mDisplayFoldController != null) {
              mDisplayFoldController.finishedWakingUp();
          }
@@ -76,7 +66,7 @@ index e17c6ae561d5..19f32eea7805 100644
      }
  
      private boolean shouldWakeUpWithHomeIntent() {
-@@ -6719,6 +6736,26 @@ public class PhoneWindowManager implements WindowManagerPolicy {
+@@ -6719,6 +6735,24 @@ public class PhoneWindowManager implements WindowManagerPolicy {
          // So it is better not to bind keyguard here.
          mKeyguardDelegate.onSystemReady();
  
@@ -84,9 +74,7 @@ index e17c6ae561d5..19f32eea7805 100644
 +                new ThreeFingersSwipeListener.Callbacks() {
 +            @Override
 +            public boolean isSuppressed() {
-+                final GameSpaceService gameSpace =
-+                        LocalServices.getService(GameSpaceService.class);
-+                return gameSpace != null && gameSpace.isGameActive();
++                return false;
 +            }
 +
 +            @Override
@@ -418,30 +406,6 @@ index 000000000000..627c6300fb03
 +        void onSwipeThreeFingers();
 +    }
 +}
-diff --git a/services/core/java/com/android/server/wm/GameSpaceService.java b/services/core/java/com/android/server/wm/GameSpaceService.java
-index d49dfc762f7f..a333a7122724 100644
---- a/services/core/java/com/android/server/wm/GameSpaceService.java
-+++ b/services/core/java/com/android/server/wm/GameSpaceService.java
-@@ -36,7 +36,7 @@ public final class GameSpaceService extends SystemService {
-     private final Handler mHandler;
- 
-     private boolean mStarted;
--    private String mCurrentGame;
-+    private volatile String mCurrentGame;
- 
-     public GameSpaceService(Context context) {
-         super(context);
-@@ -75,6 +75,10 @@ public final class GameSpaceService extends SystemService {
-         });
-     }
- 
-+    public boolean isGameActive() {
-+        return mCurrentGame != null;
-+    }
-+
-     public void onAppFocusChanged(ActivityRecord record, Task task) {
-         if (record == null || record.packageName == null) {
-             return;
 -- 
 2.43.0
 
