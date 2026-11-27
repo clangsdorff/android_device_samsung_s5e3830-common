@@ -1,7 +1,7 @@
-From 373c9524fc09854f389e768b85a41e5dfef16d2b Mon Sep 17 00:00:00 2001
+From d86e64ed6732f5f4a86f5e9c4dbd1269183fa313 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Mon, 16 Nov 2026 15:10:50 +0300
-Subject: [PATCH 7/11] display: support camera light sensor fallback
+Subject: [PATCH 4/4] display: support camera light sensor fallback
 
 devices without a hardware light sensor cannot drive aosp auto
 brightness on their own. allow AutomaticBrightnessController to bind a
@@ -14,10 +14,10 @@ from the front camera.
  3 files changed, 134 insertions(+), 7 deletions(-)
 
 diff --git a/core/res/res/values/config.xml b/core/res/res/values/config.xml
-index 29cc462..5d0f076 100644
+index c1e8a7a47263..cb94af534587 100644
 --- a/core/res/res/values/config.xml
 +++ b/core/res/res/values/config.xml
-@@ -5203,6 +5203,10 @@
+@@ -5208,6 +5208,10 @@
      -->
      <string name="config_defaultAttentionService" translatable="false"></string>
  
@@ -29,10 +29,10 @@ index 29cc462..5d0f076 100644
          This service must be trusted, as it can be activated without explicit consent of the user.
          See android.service.rotationresolver.RotationResolverService.
 diff --git a/core/res/res/values/symbols.xml b/core/res/res/values/symbols.xml
-index d41add6..a9d2ca4 100644
+index 9be70a39eac5..c1102ffad3f6 100644
 --- a/core/res/res/values/symbols.xml
 +++ b/core/res/res/values/symbols.xml
-@@ -4300,6 +4300,7 @@
+@@ -4294,6 +4294,7 @@
    <java-symbol type="string" name="config_defaultWallpaperEffectsGenerationService" />
    <java-symbol type="string" name="config_defaultMusicRecognitionService" />
    <java-symbol type="string" name="config_defaultAttentionService" />
@@ -41,7 +41,7 @@ index d41add6..a9d2ca4 100644
    <java-symbol type="string" name="config_defaultSystemCaptionsManagerService" />
    <java-symbol type="string" name="config_defaultAmbientContextDetectionService" />
 diff --git a/services/core/java/com/android/server/display/AutomaticBrightnessController.java b/services/core/java/com/android/server/display/AutomaticBrightnessController.java
-index 858299b..438352b 100644
+index 858299ba2cd0..438352b11c83 100644
 --- a/services/core/java/com/android/server/display/AutomaticBrightnessController.java
 +++ b/services/core/java/com/android/server/display/AutomaticBrightnessController.java
 @@ -28,7 +28,10 @@ import android.app.ActivityTaskManager;
@@ -273,5 +273,5 @@ index 858299b..438352b 100644
          @Override
          public void onSensorChanged(SensorEvent event) {
 -- 
-2.56.0
+2.43.0
 

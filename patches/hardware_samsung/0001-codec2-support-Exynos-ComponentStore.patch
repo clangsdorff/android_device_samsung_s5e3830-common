@@ -1,7 +1,7 @@
-From 753ccb28d9af09e58f78de9c21d5036b5d1a78ce Mon Sep 17 00:00:00 2001
+From 22bc0d77561731e611e8d83c017d4cac8035b9b4 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sat, 14 Nov 2026 21:48:40 +0300
-Subject: [PATCH 2/5] codec2: support Exynos ComponentStore
+Subject: [PATCH 1/4] codec2: support Exynos ComponentStore
 
 add support for exynos codec2 componentstore blobs that export
 android::GetCodec2ExynosComponentStore() and register the store
@@ -223,5 +223,5 @@ index 4d7c2bb..a6a1f79 100644
  #else
      LOG(DEBUG) << "android.software.media.c2" << (aidlEnabled ? "-V1" : "@1.2")
 -- 
-2.56.0
+2.43.0
 
