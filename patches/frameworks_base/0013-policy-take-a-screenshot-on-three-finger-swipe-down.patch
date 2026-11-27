@@ -1,7 +1,7 @@
 From d101888bc0fa48bc534c0598e972b5b61e765fb5 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sun, 22 Nov 2026 09:35:06 +0000
-Subject: [PATCH 14/14] policy: take a screenshot on three finger swipe down
+Subject: [PATCH 13/13] policy: take a screenshot on three finger swipe down
 
 add an input monitor based three finger swipe detector from crdroid
 and take a full screenshot when it fires, gated by the

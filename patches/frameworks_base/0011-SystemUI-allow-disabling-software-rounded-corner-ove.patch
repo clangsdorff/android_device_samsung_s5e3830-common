@@ -1,7 +1,7 @@
 From a4fbb5dde1236d2350ec9442360b8d7682cb429a Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Wed, 18 Nov 2026 12:42:09 +0300
-Subject: [PATCH 12/14] SystemUI: allow disabling software rounded corner overlays
+Subject: [PATCH 11/13] SystemUI: allow disabling software rounded corner overlays
 
 displays with physical rounded corners still need non-zero
 rounded_corner_radius resources for window insets and launch/recents
