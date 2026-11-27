@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    SPDX-FileCopyrightText: The Android Open Source Project
+    SPDX-FileCopyrightText: 2026 Langsdorff
+    SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary" product="default" msgid="9220919404923939167">"আপনার বিজ্ঞপ্তিগুলি চেক করতে, আঙ্গুলের ছাপ নেওয়ার সেন্সরে টাচ করে নিচের দিকে সোয়াইপ করুন৷"</string>
+    <string name="fingerprint_swipe_for_notifications_summary" product="tablet" msgid="8352977484297938140">"আপনার বিজ্ঞপ্তিগুলি চেক করতে, আঙ্গুলের ছাপ নেওয়ার সেন্সরে টাচ করে নিচের দিকে সোয়াইপ করুন৷"</string>
+    <string name="fingerprint_swipe_for_notifications_summary" product="device" msgid="3599811593791756084">"আপনার বিজ্ঞপ্তিগুলি চেক করতে, আঙ্গুলের ছাপ নেওয়ার সেন্সরে টাচ করে নিচের দিকে সোয়াইপ করুন৷"</string>
+    <string name="fingerprint_swipe_for_notifications_summary" product="desktop" msgid="3599811593791756084">"আপনার বিজ্ঞপ্তিগুলি চেক করতে, আঙ্গুলের ছাপ নেওয়ার সেন্সরে টাচ করে নিচের দিকে সোয়াইপ করুন৷"</string>
+</resources>
