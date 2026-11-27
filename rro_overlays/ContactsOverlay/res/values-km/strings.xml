@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"ចម្លងទៅស៊ីម"</string>
+    <string name="copy_to_sim_choose">"ជ្រើសរើសស៊ីម"</string>
+    <string name="copy_to_sim_done">"បានចម្លងទៅស៊ីម"</string>
+    <string name="copy_to_sim_failed">"មិនអាចចម្លងទៅស៊ីមបានទេ"</string>
+    <string name="sim_contact_save_failed">"មិនអាចរក្សាទុកទំនាក់ទំនងទៅស៊ីមបានទេ"</string>
+</resources>

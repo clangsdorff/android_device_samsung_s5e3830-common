@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"ወደ ሲም ቅዳ"</string>
+    <string name="copy_to_sim_choose">"ሲም ይምረጡ"</string>
+    <string name="copy_to_sim_done">"ወደ ሲም ተቀድቷል"</string>
+    <string name="copy_to_sim_failed">"ወደ ሲም መቅዳት አልተቻለም"</string>
+    <string name="sim_contact_save_failed">"እውቂያውን ወደ ሲም ማስቀመጥ አልተቻለም"</string>
+</resources>

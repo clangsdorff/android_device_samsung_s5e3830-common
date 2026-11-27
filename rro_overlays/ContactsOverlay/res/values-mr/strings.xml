@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"सिमवर कॉपी करा"</string>
+    <string name="copy_to_sim_choose">"सिम निवडा"</string>
+    <string name="copy_to_sim_done">"सिमवर कॉपी केले"</string>
+    <string name="copy_to_sim_failed">"सिमवर कॉपी करता आले नाही"</string>
+    <string name="sim_contact_save_failed">"संपर्क सिमवर सेव्ह करता आला नाही"</string>
+</resources>

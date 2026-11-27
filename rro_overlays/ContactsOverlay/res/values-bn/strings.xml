@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"সিমে কপি করুন"</string>
+    <string name="copy_to_sim_choose">"সিম বেছে নিন"</string>
+    <string name="copy_to_sim_done">"সিমে কপি করা হয়েছে"</string>
+    <string name="copy_to_sim_failed">"সিমে কপি করা যায়নি"</string>
+    <string name="sim_contact_save_failed">"পরিচিতি সিমে সেভ করা যায়নি"</string>
+</resources>

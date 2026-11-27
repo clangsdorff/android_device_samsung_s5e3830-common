@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"คัดลอกไปยังซิม"</string>
+    <string name="copy_to_sim_choose">"เลือกซิม"</string>
+    <string name="copy_to_sim_done">"คัดลอกไปยังซิมแล้ว"</string>
+    <string name="copy_to_sim_failed">"คัดลอกไปยังซิมไม่ได้"</string>
+    <string name="sim_contact_save_failed">"บันทึกรายชื่อติดต่อลงในซิมไม่ได้"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopjo në kartën SIM"</string>
+    <string name="copy_to_sim_choose">"Zgjidh kartën SIM"</string>
+    <string name="copy_to_sim_done">"U kopjua në kartën SIM"</string>
+    <string name="copy_to_sim_failed">"Nuk mund të kopjohej në kartën SIM"</string>
+    <string name="sim_contact_save_failed">"Kontakti nuk mund të ruhej në kartën SIM"</string>
+</resources>

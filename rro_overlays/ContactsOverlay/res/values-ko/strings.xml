@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM에 복사"</string>
+    <string name="copy_to_sim_choose">"SIM 선택"</string>
+    <string name="copy_to_sim_done">"SIM에 복사됨"</string>
+    <string name="copy_to_sim_failed">"SIM에 복사할 수 없음"</string>
+    <string name="sim_contact_save_failed">"연락처를 SIM에 저장할 수 없음"</string>
+</resources>

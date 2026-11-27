@@ -222,6 +222,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     ApertureOverlay \
     CarrierSettingsS5e3830Overlay \
+    ContactsOverlay \
     FrameworkResOverlay \
     LineageSDKOverlay \
     NavigationBarNoHintOverlay \

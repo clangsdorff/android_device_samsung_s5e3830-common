@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Afrita á SIM-kort"</string>
+    <string name="copy_to_sim_choose">"Veldu SIM-kort"</string>
+    <string name="copy_to_sim_done">"Afritað á SIM-kort"</string>
+    <string name="copy_to_sim_failed">"Ekki tókst að afrita á SIM-kort"</string>
+    <string name="sim_contact_save_failed">"Ekki tókst að vista tengiliðinn á SIM-kortinu"</string>
+</resources>

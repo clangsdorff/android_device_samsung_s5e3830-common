@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"複製到 SIM 卡"</string>
+    <string name="copy_to_sim_choose">"選擇 SIM 卡"</string>
+    <string name="copy_to_sim_done">"已複製到 SIM 卡"</string>
+    <string name="copy_to_sim_failed">"無法複製到 SIM 卡"</string>
+    <string name="sim_contact_save_failed">"無法將聯絡人儲存到 SIM 卡"</string>
+</resources>

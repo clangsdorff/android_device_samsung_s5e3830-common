@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopioi SIM-kortille"</string>
+    <string name="copy_to_sim_choose">"Valitse SIM-kortti"</string>
+    <string name="copy_to_sim_done">"Kopioitu SIM-kortille"</string>
+    <string name="copy_to_sim_failed">"SIM-kortille kopioiminen epäonnistui"</string>
+    <string name="sim_contact_save_failed">"Yhteystiedon tallentaminen SIM-kortille epäonnistui"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM වෙත පිටපත් කරන්න"</string>
+    <string name="copy_to_sim_choose">"SIM තෝරන්න"</string>
+    <string name="copy_to_sim_done">"SIM වෙත පිටපත් කළා"</string>
+    <string name="copy_to_sim_failed">"SIM වෙත පිටපත් කළ නොහැකි විය"</string>
+    <string name="sim_contact_save_failed">"සම්බන්ධතාව SIM වෙත සුරැකිය නොහැකි විය"</string>
+</resources>

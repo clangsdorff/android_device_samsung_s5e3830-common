@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIMకు కాపీ చేయండి"</string>
+    <string name="copy_to_sim_choose">"SIMను ఎంచుకోండి"</string>
+    <string name="copy_to_sim_done">"SIMకు కాపీ చేయబడింది"</string>
+    <string name="copy_to_sim_failed">"SIMకు కాపీ చేయడం సాధ్యపడలేదు"</string>
+    <string name="sim_contact_save_failed">"కాంటాక్ట్‌ను SIMలో సేవ్ చేయడం సాధ్యపడలేదు"</string>
+</resources>

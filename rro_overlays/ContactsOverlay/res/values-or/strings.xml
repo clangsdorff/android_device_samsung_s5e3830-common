@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIMକୁ କପି କରନ୍ତୁ"</string>
+    <string name="copy_to_sim_choose">"SIM ବାଛନ୍ତୁ"</string>
+    <string name="copy_to_sim_done">"SIMକୁ କପି କରାଗଲା"</string>
+    <string name="copy_to_sim_failed">"SIMକୁ କପି କରାଯାଇପାରିଲା ନାହିଁ"</string>
+    <string name="sim_contact_save_failed">"ଯୋଗାଯୋଗକୁ SIMରେ ସେଭ କରାଯାଇପାରିଲା ନାହିଁ"</string>
+</resources>

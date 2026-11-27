@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM картага көчүрүү"</string>
+    <string name="copy_to_sim_choose">"SIM картаны тандаңыз"</string>
+    <string name="copy_to_sim_done">"SIM картага көчүрүлдү"</string>
+    <string name="copy_to_sim_failed">"SIM картага көчүрүлгөн жок"</string>
+    <string name="sim_contact_save_failed">"Байланыш SIM картага сакталган жок"</string>
+</resources>

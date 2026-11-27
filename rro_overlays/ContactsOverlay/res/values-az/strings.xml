@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM-ə kopyalayın"</string>
+    <string name="copy_to_sim_choose">"SIM seçin"</string>
+    <string name="copy_to_sim_done">"SIM-ə kopyalandı"</string>
+    <string name="copy_to_sim_failed">"SIM-ə kopyalamaq mümkün olmadı"</string>
+    <string name="sim_contact_save_failed">"Kontaktı SIM-də yadda saxlamaq mümkün olmadı"</string>
+</resources>

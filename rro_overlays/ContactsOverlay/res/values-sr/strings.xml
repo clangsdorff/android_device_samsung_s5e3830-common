@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Копирај на SIM"</string>
+    <string name="copy_to_sim_choose">"Изаберите SIM"</string>
+    <string name="copy_to_sim_done">"Копирано на SIM"</string>
+    <string name="copy_to_sim_failed">"Копирање на SIM није успело"</string>
+    <string name="sim_contact_save_failed">"Чување контакта на SIM-у није успело"</string>
+</resources>

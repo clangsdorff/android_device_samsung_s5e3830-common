@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM にコピー"</string>
+    <string name="copy_to_sim_choose">"SIM を選択"</string>
+    <string name="copy_to_sim_done">"SIM にコピーしました"</string>
+    <string name="copy_to_sim_failed">"SIM にコピーできませんでした"</string>
+    <string name="sim_contact_save_failed">"連絡先を SIM に保存できませんでした"</string>
+</resources>

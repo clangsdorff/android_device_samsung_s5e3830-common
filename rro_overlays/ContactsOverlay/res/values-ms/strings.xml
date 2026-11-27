@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Salin ke SIM"</string>
+    <string name="copy_to_sim_choose">"Pilih SIM"</string>
+    <string name="copy_to_sim_done">"Disalin ke SIM"</string>
+    <string name="copy_to_sim_failed">"Tidak dapat menyalin ke SIM"</string>
+    <string name="sim_contact_save_failed">"Tidak dapat menyimpan kenalan ke SIM"</string>
+</resources>

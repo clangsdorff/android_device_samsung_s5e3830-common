@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Скапіраваць на SIM-карту"</string>
+    <string name="copy_to_sim_choose">"Выберыце SIM-карту"</string>
+    <string name="copy_to_sim_done">"Скапіравана на SIM-карту"</string>
+    <string name="copy_to_sim_failed">"Не ўдалося скапіраваць на SIM-карту"</string>
+    <string name="sim_contact_save_failed">"Не ўдалося захаваць кантакт на SIM-карце"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopēt SIM kartē"</string>
+    <string name="copy_to_sim_choose">"Izvēlieties SIM karti"</string>
+    <string name="copy_to_sim_done">"Nokopēts SIM kartē"</string>
+    <string name="copy_to_sim_failed">"Nevarēja kopēt SIM kartē"</string>
+    <string name="sim_contact_save_failed">"Nevarēja saglabāt kontaktpersonu SIM kartē"</string>
+</resources>

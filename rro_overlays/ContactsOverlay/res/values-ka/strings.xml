@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM-ზე კოპირება"</string>
+    <string name="copy_to_sim_choose">"აირჩიეთ SIM"</string>
+    <string name="copy_to_sim_done">"კოპირებულია SIM-ზე"</string>
+    <string name="copy_to_sim_failed">"SIM-ზე კოპირება ვერ მოხერხდა"</string>
+    <string name="sim_contact_save_failed">"კონტაქტის SIM-ზე შენახვა ვერ მოხერხდა"</string>
+</resources>

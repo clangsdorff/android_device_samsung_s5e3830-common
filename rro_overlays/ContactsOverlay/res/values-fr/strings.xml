@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Copier sur la SIM"</string>
+    <string name="copy_to_sim_choose">"Choisir une SIM"</string>
+    <string name="copy_to_sim_done">"Copié sur la SIM"</string>
+    <string name="copy_to_sim_failed">"Impossible de copier sur la SIM"</string>
+    <string name="sim_contact_save_failed">"Impossible d\'enregistrer le contact sur la SIM"</string>
+</resources>

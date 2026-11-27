@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"کپی در سیم‌کارت"</string>
+    <string name="copy_to_sim_choose">"انتخاب سیم‌کارت"</string>
+    <string name="copy_to_sim_done">"در سیم‌کارت کپی شد"</string>
+    <string name="copy_to_sim_failed">"کپی در سیم‌کارت ممکن نبود"</string>
+    <string name="sim_contact_save_failed">"ذخیره مخاطب در سیم‌کارت ممکن نبود"</string>
+</resources>

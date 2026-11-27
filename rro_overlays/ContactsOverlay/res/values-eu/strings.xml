@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopiatu SIM txartelean"</string>
+    <string name="copy_to_sim_choose">"Aukeratu SIM txartela"</string>
+    <string name="copy_to_sim_done">"SIM txartelean kopiatu da"</string>
+    <string name="copy_to_sim_failed">"Ezin izan da kopiatu SIM txartelean"</string>
+    <string name="sim_contact_save_failed">"Ezin izan da gorde kontaktua SIM txartelean"</string>
+</resources>

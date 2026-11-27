@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopishela ku-SIM"</string>
+    <string name="copy_to_sim_choose">"Khetha i-SIM"</string>
+    <string name="copy_to_sim_done">"Kukopishelwe ku-SIM"</string>
+    <string name="copy_to_sim_failed">"Akukwazanga ukukopishela ku-SIM"</string>
+    <string name="sim_contact_save_failed">"Akukwazanga ukulondoloza oxhumana naye ku-SIM"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Sao chép vào SIM"</string>
+    <string name="copy_to_sim_choose">"Chọn SIM"</string>
+    <string name="copy_to_sim_done">"Đã sao chép vào SIM"</string>
+    <string name="copy_to_sim_failed">"Không thể sao chép vào SIM"</string>
+    <string name="sim_contact_save_failed">"Không thể lưu người liên hệ vào SIM"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Copia a la SIM"</string>
+    <string name="copy_to_sim_choose">"Tria una SIM"</string>
+    <string name="copy_to_sim_done">"S\'ha copiat a la SIM"</string>
+    <string name="copy_to_sim_failed">"No s\'ha pogut copiar a la SIM"</string>
+    <string name="sim_contact_save_failed">"No s\'ha pogut desar el contacte a la SIM"</string>
+</resources>

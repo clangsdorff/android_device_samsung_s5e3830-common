@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Copiar para o chip"</string>
+    <string name="copy_to_sim_choose">"Escolher chip"</string>
+    <string name="copy_to_sim_done">"Copiado para o chip"</string>
+    <string name="copy_to_sim_failed">"Não foi possível copiar para o chip"</string>
+    <string name="sim_contact_save_failed">"Não foi possível salvar o contato no chip"</string>
+</resources>

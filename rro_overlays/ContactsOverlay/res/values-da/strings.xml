@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"Kopiér til SIM-kort"</string>
+    <string name="copy_to_sim_choose">"Vælg SIM-kort"</string>
+    <string name="copy_to_sim_done">"Kopieret til SIM-kort"</string>
+    <string name="copy_to_sim_failed">"Der kunne ikke kopieres til SIM-kortet"</string>
+    <string name="sim_contact_save_failed">"Kontakten kunne ikke gemmes på SIM-kortet"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_copy_to_sim">"SIM मा कपी गर्नुहोस्"</string>
+    <string name="copy_to_sim_choose">"SIM छनौट गर्नुहोस्"</string>
+    <string name="copy_to_sim_done">"SIM मा कपी गरियो"</string>
+    <string name="copy_to_sim_failed">"SIM मा कपी गर्न सकिएन"</string>
+    <string name="sim_contact_save_failed">"सम्पर्क SIM मा सेभ गर्न सकिएन"</string>
+</resources>
