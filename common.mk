@@ -321,5 +321,4 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/samsung \
     hardware/samsung_slsi-linaro/exynos/abox \
     hardware/samsung_slsi-linaro/exynos/cpboot_v3 \
-    hardware/samsung_slsi-linaro/exynos/gralloc/gralloc4/service/4.x \
     hardware/samsung_slsi-linaro/graphics/base/memtrack-exynos
