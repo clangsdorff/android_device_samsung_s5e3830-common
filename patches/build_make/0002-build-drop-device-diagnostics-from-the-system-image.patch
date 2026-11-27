@@ -1,7 +1,7 @@
 From 7a75d4148028262cefbbee266c7cd88f5fe157ae Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Fri, 20 Nov 2026 22:00:57 +0000
-Subject: [PATCH 4/4] build: drop device diagnostics from the system image
+Subject: [PATCH 2/2] build: drop device diagnostics from the system image
 
 the settings entry only shows up when the diagnostics app resolves,
 so dropping the package from the handheld system list removes both

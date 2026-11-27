@@ -1,7 +1,7 @@
 From 62e2705c728038566638acdb133dd717fb064d2a Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Thu, 19 Nov 2026 17:08:53 +0000
-Subject: [PATCH] wm: start gamespace sessions for listed games
+Subject: [PATCH 15/19] wm: start gamespace sessions for listed games
 
 GameSpace waits for a session start, but lineage has no code that
 sends it, so the game bar never shows up. Add a system service that

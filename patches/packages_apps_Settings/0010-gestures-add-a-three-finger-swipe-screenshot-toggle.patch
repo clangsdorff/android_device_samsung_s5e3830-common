@@ -1,7 +1,7 @@
 From 4765b3f3aef1e96e37ac2eb1dd6f47494d6088db Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sun, 22 Nov 2026 09:35:05 +0000
-Subject: [PATCH 12/13] gestures: add a three finger swipe screenshot toggle
+Subject: [PATCH 10/11] gestures: add a three finger swipe screenshot toggle
 
 there was no way to take a screenshot with a touchscreen gesture.
 

@@ -1,7 +1,7 @@
 From 60a9350dc9070c0ac0443fbe6819fec888f2e309 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Fri, 20 Nov 2026 22:10:05 +0000
-Subject: [PATCH] gestures: add torch and app targets to double tap power
+Subject: [PATCH 18/19] gestures: add torch and app targets to double tap power
 
 double tap power only offers camera or wallet in multi target mode, so
 the gesture can not toggle the flashlight or open another app.

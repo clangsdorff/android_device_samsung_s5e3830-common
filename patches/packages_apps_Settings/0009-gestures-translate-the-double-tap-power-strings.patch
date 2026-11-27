@@ -1,7 +1,7 @@
 From 8d3150abebd3e3b50b314b191aa53f4b85179a36 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Fri, 20 Nov 2026 22:14:28 +0000
-Subject: [PATCH 11/11] gestures: translate the double tap power strings
+Subject: [PATCH 9/11] gestures: translate the double tap power strings
 
 the flashlight and app target strings only shipped in english and
 turkish, so every other locale fell back to english.

@@ -1,7 +1,7 @@
 From ad768ea897bc3a04adce121bf3446925dba6654e Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Fri, 23 Oct 2026 00:41:49 +0300
-Subject: [PATCH 1/5] gestures: drop the back sensor wording from the
+Subject: [PATCH 1/11] gestures: drop the back sensor wording from the
  fingerprint swipe
 
 the swipe summary tells users to swipe on a sensor on the back of the

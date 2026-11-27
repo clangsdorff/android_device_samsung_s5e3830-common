@@ -1,7 +1,7 @@
 From 90e58e168fcc6342b0477a98590898c2c7128dbe Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Thu, 19 Nov 2026 17:14:35 +0000
-Subject: [PATCH] app: treat gamespace games as games
+Subject: [PATCH 16/19] app: treat gamespace games as games
 
 GameManagerService only accepts game mode changes for apps whose
 category is game, so modes and custom interventions set by GameSpace

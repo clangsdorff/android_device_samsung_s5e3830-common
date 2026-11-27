@@ -1,7 +1,7 @@
 From 5ccdec2db5e6400f774da0bc013fce5944c87309 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Tue, 17 Nov 2026 00:24:32 +0300
-Subject: [PATCH] wm: add a setting to ignore secure windows
+Subject: [PATCH 11/19] wm: add a setting to ignore secure windows
 
 disable_secure_windows only works on debuggable builds, so user builds
 have no way to screenshot or record FLAG_SECURE apps.

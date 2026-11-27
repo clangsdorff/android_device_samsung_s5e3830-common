@@ -1,7 +1,7 @@
 From 5848eec46077e8c77a55f46d9cc11a55f707527f Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Sun, 22 Nov 2026 09:37:11 +0000
-Subject: [PATCH 13/13] gestures: translate the three finger screenshot strings
+Subject: [PATCH 11/11] gestures: translate the three finger screenshot strings
 
 the three finger screenshot toggle only shipped in english and
 turkish, so every other locale fell back to english.

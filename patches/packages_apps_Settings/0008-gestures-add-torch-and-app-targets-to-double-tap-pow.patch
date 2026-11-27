@@ -1,7 +1,7 @@
 From 2e68f3ba2f4588159dfcd1234c9f9823f0bbd95d Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Fri, 20 Nov 2026 22:11:32 +0000
-Subject: [PATCH 10/11] gestures: add torch and app targets to double tap power
+Subject: [PATCH 8/11] gestures: add torch and app targets to double tap power
 
 the double tap power screen only lists camera and wallet, so there is
 no way to pick the torch or app targets the framework now handles.
