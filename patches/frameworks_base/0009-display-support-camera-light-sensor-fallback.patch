@@ -1,7 +1,7 @@
 From 373c9524fc09854f389e768b85a41e5dfef16d2b Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Mon, 16 Nov 2026 15:10:50 +0300
-Subject: [PATCH 10/19] display: support camera light sensor fallback
+Subject: [PATCH 9/17] display: support camera light sensor fallback
 
 devices without a hardware light sensor cannot drive aosp auto
 brightness on their own. allow AutomaticBrightnessController to bind a

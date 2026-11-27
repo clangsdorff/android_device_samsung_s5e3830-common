@@ -1,7 +1,7 @@
 From 4b2697d2bf8c394d7ee0d8dd01b7c8317fc7ff61 Mon Sep 17 00:00:00 2001
 From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
 Date: Thu, 19 Nov 2026 19:04:35 +0000
-Subject: [PATCH 17/19] app: ignore game opt-outs for downscale and fps override
+Subject: [PATCH 15/17] app: ignore game opt-outs for downscale and fps override
 
 Games like PUBG set allowGameDownscaling and allowGameFpsOverride to
 false in their game mode config, so the custom mode resolution and
