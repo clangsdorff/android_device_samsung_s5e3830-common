@@ -1,7 +1,7 @@
-From 59c2f77f0ffc3af5dbf898dc265860866b62b25a Mon Sep 17 00:00:00 2001
+From 1bb5d40987a3990a4fc691d84fdacb0913979733 Mon Sep 17 00:00:00 2001
 From: fukiame <fukiame@proton.me>
-Date: Wed, 11 Nov 2026 22:26:14 +0300
-Subject: [PATCH 3/3] config: make extra los cli utils opt out
+Date: Fri, 27 Nov 2026 18:38:00 +0000
+Subject: [PATCH 2/2] config: make extra los cli utils opt out
 
 Signed-off-by: fukiame <fukiame@proton.me>
 ---
@@ -9,10 +9,10 @@ Signed-off-by: fukiame <fukiame@proton.me>
  1 file changed, 11 insertions(+), 3 deletions(-)
 
 diff --git a/config/common.mk b/config/common.mk
-index 9c26242..bd54f3e 100644
+index 6b7d99b9..d01b3fd0 100644
 --- a/config/common.mk
 +++ b/config/common.mk
-@@ -167,6 +167,7 @@ PRODUCT_PACKAGES += \
+@@ -169,6 +169,7 @@ PRODUCT_PACKAGES += \
      SimpleDeviceConfig \
      SimpleSettingsConfig
  
@@ -20,7 +20,7 @@ index 9c26242..bd54f3e 100644
  # Extra tools in Lineage
  PRODUCT_PACKAGES += \
      bash \
-@@ -177,13 +178,16 @@ PRODUCT_PACKAGES += \
+@@ -179,13 +180,16 @@ PRODUCT_PACKAGES += \
      setcap \
      vim
  
@@ -40,7 +40,7 @@ index 9c26242..bd54f3e 100644
      system/%/libzstd.so
  
  # fastbootd
-@@ -209,6 +213,7 @@ PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
+@@ -211,6 +215,7 @@ PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
  PRODUCT_COPY_FILES += \
      vendor/lineage/prebuilt/common/bin/wipe-frp.sh:$(TARGET_COPY_OUT_RECOVERY)/root/system/bin/wipe-frp
  
@@ -48,7 +48,7 @@ index 9c26242..bd54f3e 100644
  # Openssh
  PRODUCT_PACKAGES += \
      scp \
-@@ -221,14 +226,17 @@ PRODUCT_PACKAGES += \
+@@ -223,14 +228,17 @@ PRODUCT_PACKAGES += \
  
  PRODUCT_COPY_FILES += \
      vendor/lineage/prebuilt/common/etc/init/init.openssh.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/init.openssh.rc
@@ -67,5 +67,5 @@ index 9c26242..bd54f3e 100644
  # Storage manager
  PRODUCT_PRODUCT_PROPERTIES += \
 -- 
-2.56.0
+2.43.0
 
