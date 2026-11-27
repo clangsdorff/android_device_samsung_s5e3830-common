@@ -184,6 +184,7 @@ PRODUCT_PACKAGES += \
 
 # RIL
 PRODUCT_PACKAGES += \
+    apns-conf.xml.s5e3830 \
     cbd \
     secril_config_svc \
     sehradiomanager

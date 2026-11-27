@@ -1,0 +1,35 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-FileCopyrightText: 2026 Langsdorff
+// SPDX-License-Identifier: Apache-2.0
+//
+
+genrule {
+    name: "s5e3830_apns-conf",
+    out: ["apns-conf.xml"],
+    srcs: [
+        ":upstream_apns_conf",
+        ":local_apns_conf",
+        "TR.xml",
+        "samsung.xml",
+        "merge-apns-conf.yaml",
+        ":apns-conf-schema",
+    ],
+    tools: [
+        "make-apns",
+        "xmllint",
+    ],
+    cmd: "$(location make-apns) --source $(location :upstream_apns_conf) " +
+        "--config $(location merge-apns-conf.yaml) " +
+        "--schema $(location :apns-conf-schema) --xmllint $(location xmllint) " +
+        "$(locations :local_apns_conf) $(location TR.xml) $(location samsung.xml) > $(out)",
+}
+
+prebuilt_etc_xml {
+    name: "apns-conf.xml.s5e3830",
+    filename: "apns-conf.xml",
+    product_specific: true,
+    src: ":s5e3830_apns-conf",
+    schema: ":apns-conf-schema",
+    overrides: ["apns-conf.xml"],
+}
