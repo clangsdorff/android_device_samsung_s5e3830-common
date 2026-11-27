@@ -1,0 +1,28 @@
+From b766fa59b64e0116bfd08f3d8d8da174af4ccffd Mon Sep 17 00:00:00 2001
+From: Langsdorff <131063968+clangsdorff@users.noreply.github.com>
+Date: Fri, 27 Nov 2026 19:51:51 +0000
+Subject: [PATCH 2/2] common: install google.xml as google-mtg.xml
+
+crDroid vendor/addons copies the pixel sysconfig google.xml to the
+same product path, so the build fails with overriding commands.
+install ours under another name so both allowlists are loaded.
+---
+ common/Android.bp | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/common/Android.bp b/common/Android.bp
+index f84d5a2..4b59084 100644
+--- a/common/Android.bp
++++ b/common/Android.bp
+@@ -192,7 +192,7 @@ prebuilt_etc {
+     name: "google.xml",
+     src: "proprietary/product/etc/sysconfig/google.xml",
+     relative_install_path: "sysconfig",
+-    filename_from_src: true,
++    filename: "google-mtg.xml",
+     product_specific: true,
+ }
+ 
+-- 
+2.43.0
+
