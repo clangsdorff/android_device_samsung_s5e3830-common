@@ -49,3 +49,12 @@ service watchdogd /system/bin/watchdogd 10 30
     oneshot
     priority -10
     seclabel u:r:watchdogd:s0
+
+service vendor.hwcomposer-2-2 /vendor/bin/hw/android.hardware.graphics.composer@2.2-service
+    override
+    class hal animation
+    user system
+    group graphics drmrpc
+    capabilities SYS_NICE
+    onrestart restart surfaceflinger
+    task_profiles ProcessCapacityHigh
