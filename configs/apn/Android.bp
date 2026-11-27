@@ -28,7 +28,6 @@ genrule {
 prebuilt_etc_xml {
     name: "apns-conf.xml.s5e3830",
     filename: "apns-conf.xml",
-    product_specific: true,
     src: ":s5e3830_apns-conf",
     schema: ":apns-conf-schema",
     overrides: ["apns-conf.xml"],
